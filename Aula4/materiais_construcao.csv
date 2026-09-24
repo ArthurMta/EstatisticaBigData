@@ -1,0 +1,291 @@
+id;produto;categoria;fornecedor;preco;quantidade_vendida
+1;cimento cp2 50kg;cimento;votoran;80.53;2598
+2;cimento cp3 50kg;cimento;nacional;77.61;3069
+3;areia media m3;agregado;local;38.41;4474
+4;areia fina m3;agregado;local;244.26;278
+5;brita 1 m3;agregado;local;209.15;4052
+6;tijolo ceramico 6 furos;alvenaria;olaria;309.93;5549
+7;tijolo ceramico 8 furos;alvenaria;olaria;96.29;2224
+8;bloco concreto 14x19x39;alvenaria;precon;404.42;3372
+9;argamassa ac1 20kg;argamassa;quartzolit;421.75;3456
+10;argamassa ac2 20kg;argamassa;quartzolit;153.88;2374
+11;rejunte cinza 1kg;acabamento;quartzolit;380.62;3298
+12;cal hidratada 20kg;insumo;itaubira;150.11;3773
+13;gesso rapido 40kg;insumo;maxgesso;308.02;716
+14;tinta latex branco 18l;tinta;suvinil;208.4;4856
+15;tinta acrilica branco 18l;tinta;coral;38.2;4946
+16;rolo pintura 23cm;ferramenta;atlas;195.26;4160
+17;pincel 2 pol;pintura;atlas;465.74;889
+18;lixa ferro 80;acabamento;norton;137.97;3822
+19;cabo flexivel 2.5mm 100m;eletrica;prysmian;72.81;3199
+20;disjuntor 16a;eletrica;weg;421.05;1682
+21;tubo pvc 50mm 6m;hidraulica;amanco;490.46;2195
+22;tubo pvc 100mm 6m;hidraulica;amanco;423.79;4915
+23;torneira plastica jardim;hidraulica;herc;367.61;2926
+24;registro esfera 3/4;hidraulica;docol;449.89;2158
+25;parafuso madeira 4x40;fixacao;ciser;340.7;2229
+26;cimento cp2 50kg;cimento;votoran;228.91;5050
+27;cimento cp3 50kg;cimento;nacional;404.52;4331
+28;areia media m3;agregado;local;249.26;5887
+29;areia fina m3;agregado;local;335.16;3630
+30;brita 1 m3;agregado;local;84.33;1404
+31;tijolo ceramico 6 furos;alvenaria;olaria;388.98;905
+32;tijolo ceramico 8 furos;alvenaria;olaria;493.84;2410
+33;bloco concreto 14x19x39;alvenaria;precon;385.31;4056
+34;argamassa ac1 20kg;argamassa;quartzolit;157.45;4294
+35;argamassa ac2 20kg;argamassa;quartzolit;266.71;3067
+36;rejunte cinza 1kg;acabamento;quartzolit;44.28;3982
+37;cal hidratada 20kg;insumo;itaubira;86.45;840
+38;gesso rapido 40kg;insumo;maxgesso;301.83;3073
+39;tinta latex branco 18l;tinta;suvinil;323.61;1082
+40;tinta acrilica branco 18l;tinta;coral;200.54;2405
+41;rolo pintura 23cm;ferramenta;atlas;334.12;4445
+42;pincel 2 pol;pintura;atlas;75.34;5552
+43;lixa ferro 80;acabamento;norton;174.47;5777
+44;cabo flexivel 2.5mm 100m;eletrica;prysmian;303.38;5995
+45;disjuntor 16a;eletrica;weg;199.74;4682
+46;tubo pvc 50mm 6m;hidraulica;amanco;105.85;3385
+47;tubo pvc 100mm 6m;hidraulica;amanco;398.43;2402
+48;torneira plastica jardim;hidraulica;herc;159.24;2372
+49;registro esfera 3/4;hidraulica;docol;85.23;1913
+50;parafuso madeira 4x40;fixacao;ciser;390.74;1415
+51;cimento cp2 50kg;cimento;votoran;440.37;3159
+52;cimento cp3 50kg;cimento;nacional;171.28;1248
+53;areia media m3;agregado;local;497.37;4648
+54;areia fina m3;agregado;local;341.15;1441
+55;brita 1 m3;agregado;local;54.64;5373
+56;tijolo ceramico 6 furos;alvenaria;olaria;41.29;1401
+57;tijolo ceramico 8 furos;alvenaria;olaria;305.08;3525
+58;bloco concreto 14x19x39;alvenaria;precon;325.08;3386
+59;argamassa ac1 20kg;argamassa;quartzolit;426.62;5039
+60;argamassa ac2 20kg;argamassa;quartzolit;211.27;854
+61;rejunte cinza 1kg;acabamento;quartzolit;355.09;4956
+62;cal hidratada 20kg;insumo;itaubira;494.16;3480
+63;gesso rapido 40kg;insumo;maxgesso;239.25;1270
+64;tinta latex branco 18l;tinta;suvinil;286.04;4980
+65;tinta acrilica branco 18l;tinta;coral;305.59;5448
+66;rolo pintura 23cm;ferramenta;atlas;10.32;2734
+67;pincel 2 pol;pintura;atlas;63.93;1034
+68;lixa ferro 80;acabamento;norton;35.87;5685
+69;cabo flexivel 2.5mm 100m;eletrica;prysmian;345.91;4686
+70;disjuntor 16a;eletrica;weg;93.55;4216
+71;tubo pvc 50mm 6m;hidraulica;amanco;433.33;4846
+72;tubo pvc 100mm 6m;hidraulica;amanco;393.23;5037
+73;torneira plastica jardim;hidraulica;herc;293.76;1171
+74;registro esfera 3/4;hidraulica;docol;186.63;5981
+75;parafuso madeira 4x40;fixacao;ciser;104.65;5108
+76;cimento cp2 50kg;cimento;votoran;306.99;3266
+77;cimento cp3 50kg;cimento;nacional;333.14;295
+78;areia media m3;agregado;local;73.71;2069
+79;areia fina m3;agregado;local;372.38;3146
+80;brita 1 m3;agregado;local;281.39;1086
+81;tijolo ceramico 6 furos;alvenaria;olaria;206.17;1217
+82;tijolo ceramico 8 furos;alvenaria;olaria;274.69;5941
+83;bloco concreto 14x19x39;alvenaria;precon;93.6;4374
+84;argamassa ac1 20kg;argamassa;quartzolit;217.57;894
+85;argamassa ac2 20kg;argamassa;quartzolit;292.55;3793
+86;rejunte cinza 1kg;acabamento;quartzolit;128.44;1114
+87;cal hidratada 20kg;insumo;itaubira;476.71;4198
+88;gesso rapido 40kg;insumo;maxgesso;340.62;5477
+89;tinta latex branco 18l;tinta;suvinil;235.67;2485
+90;tinta acrilica branco 18l;tinta;coral;222.46;2223
+91;rolo pintura 23cm;ferramenta;atlas;180.53;1777
+92;pincel 2 pol;pintura;atlas;44.59;4141
+93;lixa ferro 80;acabamento;norton;205.56;1525
+94;cabo flexivel 2.5mm 100m;eletrica;prysmian;109.39;4418
+95;disjuntor 16a;eletrica;weg;416.12;1512
+96;tubo pvc 50mm 6m;hidraulica;amanco;7.14;3489
+97;tubo pvc 100mm 6m;hidraulica;amanco;89.77;4988
+98;torneira plastica jardim;hidraulica;herc;225.68;928
+99;registro esfera 3/4;hidraulica;docol;230.28;4473
+100;parafuso madeira 4x40;fixacao;ciser;127.65;4550
+101;cimento cp2 50kg;cimento;votoran;306.29;310
+102;cimento cp3 50kg;cimento;nacional;10.41;552
+103;areia media m3;agregado;local;292.58;2133
+104;areia fina m3;agregado;local;492.46;2574
+105;brita 1 m3;agregado;local;206.62;4628
+106;tijolo ceramico 6 furos;alvenaria;olaria;356.89;2854
+107;tijolo ceramico 8 furos;alvenaria;olaria;459.13;3039
+108;bloco concreto 14x19x39;alvenaria;precon;188.16;3621
+109;argamassa ac1 20kg;argamassa;quartzolit;230.31;1867
+110;argamassa ac2 20kg;argamassa;quartzolit;207.33;491
+111;rejunte cinza 1kg;acabamento;quartzolit;455.3;5644
+112;cal hidratada 20kg;insumo;itaubira;275.38;5402
+113;gesso rapido 40kg;insumo;maxgesso;370.09;3320
+114;tinta latex branco 18l;tinta;suvinil;267.03;1552
+115;tinta acrilica branco 18l;tinta;coral;441.23;1827
+116;rolo pintura 23cm;ferramenta;atlas;370.74;4538
+117;pincel 2 pol;pintura;atlas;210.15;2807
+118;lixa ferro 80;acabamento;norton;476.99;5365
+119;cabo flexivel 2.5mm 100m;eletrica;prysmian;227.64;2886
+120;disjuntor 16a;eletrica;weg;97.48;4620
+121;tubo pvc 50mm 6m;hidraulica;amanco;463.84;4114
+122;tubo pvc 100mm 6m;hidraulica;amanco;422.29;1444
+123;torneira plastica jardim;hidraulica;herc;115.38;5947
+124;registro esfera 3/4;hidraulica;docol;203.26;1708
+125;parafuso madeira 4x40;fixacao;ciser;5.88;5698
+126;cimento cp2 50kg;cimento;votoran;41.66;2991
+127;cimento cp3 50kg;cimento;nacional;69.15;1832
+128;areia media m3;agregado;local;88.7;3935
+129;areia fina m3;agregado;local;458.74;2337
+130;brita 1 m3;agregado;local;120.17;4119
+131;tijolo ceramico 6 furos;alvenaria;olaria;161.34;1461
+132;tijolo ceramico 8 furos;alvenaria;olaria;235.8;5954
+133;bloco concreto 14x19x39;alvenaria;precon;120.48;3706
+134;argamassa ac1 20kg;argamassa;quartzolit;124.93;4470
+135;argamassa ac2 20kg;argamassa;quartzolit;410.78;5883
+136;rejunte cinza 1kg;acabamento;quartzolit;95.74;2774
+137;cal hidratada 20kg;insumo;itaubira;402.17;2344
+138;gesso rapido 40kg;insumo;maxgesso;287.74;4992
+139;tinta latex branco 18l;tinta;suvinil;118.91;5758
+140;tinta acrilica branco 18l;tinta;coral;315.75;865
+141;rolo pintura 23cm;ferramenta;atlas;53.0;4486
+142;pincel 2 pol;pintura;atlas;456.79;5312
+143;lixa ferro 80;acabamento;norton;285.0;3038
+144;cabo flexivel 2.5mm 100m;eletrica;prysmian;333.1;4520
+145;disjuntor 16a;eletrica;weg;236.0;1270
+146;tubo pvc 50mm 6m;hidraulica;amanco;91.39;168
+147;tubo pvc 100mm 6m;hidraulica;amanco;222.25;2331
+148;torneira plastica jardim;hidraulica;herc;264.87;1252
+149;registro esfera 3/4;hidraulica;docol;116.89;3178
+150;parafuso madeira 4x40;fixacao;ciser;306.92;5325
+151;cimento cp2 50kg;cimento;votoran;452.52;1393
+152;cimento cp3 50kg;cimento;nacional;51.55;110
+153;areia media m3;agregado;local;292.75;3452
+154;areia fina m3;agregado;local;137.52;5256
+155;brita 1 m3;agregado;local;97.68;5857
+156;tijolo ceramico 6 furos;alvenaria;olaria;499.74;728
+157;tijolo ceramico 8 furos;alvenaria;olaria;116.87;4073
+158;bloco concreto 14x19x39;alvenaria;precon;460.78;1819
+159;argamassa ac1 20kg;argamassa;quartzolit;434.67;588
+160;argamassa ac2 20kg;argamassa;quartzolit;131.26;5802
+161;rejunte cinza 1kg;acabamento;quartzolit;19.72;1662
+162;cal hidratada 20kg;insumo;itaubira;96.1;4229
+163;gesso rapido 40kg;insumo;maxgesso;317.49;2612
+164;tinta latex branco 18l;tinta;suvinil;136.55;2601
+165;tinta acrilica branco 18l;tinta;coral;168.95;4732
+166;rolo pintura 23cm;ferramenta;atlas;95.29;3275
+167;pincel 2 pol;pintura;atlas;13.84;2328
+168;lixa ferro 80;acabamento;norton;494.96;1829
+169;cabo flexivel 2.5mm 100m;eletrica;prysmian;233.89;1958
+170;disjuntor 16a;eletrica;weg;417.98;4148
+171;tubo pvc 50mm 6m;hidraulica;amanco;395.95;4166
+172;tubo pvc 100mm 6m;hidraulica;amanco;239.55;5863
+173;torneira plastica jardim;hidraulica;herc;404.78;2263
+174;registro esfera 3/4;hidraulica;docol;276.4;3086
+175;parafuso madeira 4x40;fixacao;ciser;268.79;4959
+176;cimento cp2 50kg;cimento;votoran;439.11;688
+177;cimento cp3 50kg;cimento;nacional;290.97;1723
+178;areia media m3;agregado;local;252.35;2811
+179;areia fina m3;agregado;local;308.76;4111
+180;brita 1 m3;agregado;local;289.96;2018
+181;tijolo ceramico 6 furos;alvenaria;olaria;163.63;1803
+182;tijolo ceramico 8 furos;alvenaria;olaria;425.39;5172
+183;bloco concreto 14x19x39;alvenaria;precon;332.35;1224
+184;argamassa ac1 20kg;argamassa;quartzolit;405.4;5117
+185;argamassa ac2 20kg;argamassa;quartzolit;462.57;3936
+186;rejunte cinza 1kg;acabamento;quartzolit;311.42;5397
+187;cal hidratada 20kg;insumo;itaubira;262.98;3868
+188;gesso rapido 40kg;insumo;maxgesso;230.77;3747
+189;tinta latex branco 18l;tinta;suvinil;277.97;3884
+190;tinta acrilica branco 18l;tinta;coral;100.68;2564
+191;rolo pintura 23cm;ferramenta;atlas;465.01;5173
+192;pincel 2 pol;pintura;atlas;230.46;3725
+193;lixa ferro 80;acabamento;norton;393.26;1095
+194;cabo flexivel 2.5mm 100m;eletrica;prysmian;61.02;5910
+195;disjuntor 16a;eletrica;weg;262.4;3589
+196;tubo pvc 50mm 6m;hidraulica;amanco;174.04;1393
+197;tubo pvc 100mm 6m;hidraulica;amanco;41.0;1031
+198;torneira plastica jardim;hidraulica;herc;438.09;1581
+199;registro esfera 3/4;hidraulica;docol;351.96;5259
+200;parafuso madeira 4x40;fixacao;ciser;418.65;5944
+201;cimento cp2 50kg;cimento;votoran;402.02;291
+202;cimento cp3 50kg;cimento;nacional;200.76;278
+203;areia media m3;agregado;local;118.53;1405
+204;areia fina m3;agregado;local;236.92;2459
+205;brita 1 m3;agregado;local;134.81;4234
+206;tijolo ceramico 6 furos;alvenaria;olaria;390.13;4329
+207;tijolo ceramico 8 furos;alvenaria;olaria;75.32;4217
+208;bloco concreto 14x19x39;alvenaria;precon;94.23;4212
+209;argamassa ac1 20kg;argamassa;quartzolit;360.46;3692
+210;argamassa ac2 20kg;argamassa;quartzolit;34.17;1272
+211;rejunte cinza 1kg;acabamento;quartzolit;391.55;4458
+212;cal hidratada 20kg;insumo;itaubira;404.89;2422
+213;gesso rapido 40kg;insumo;maxgesso;431.84;1139
+214;tinta latex branco 18l;tinta;suvinil;455.22;2898
+215;tinta acrilica branco 18l;tinta;coral;132.13;3165
+216;rolo pintura 23cm;ferramenta;atlas;385.42;3765
+217;pincel 2 pol;pintura;atlas;138.7;2021
+218;lixa ferro 80;acabamento;norton;112.63;4126
+219;cabo flexivel 2.5mm 100m;eletrica;prysmian;259.61;852
+220;disjuntor 16a;eletrica;weg;211.62;2525
+221;tubo pvc 50mm 6m;hidraulica;amanco;158.06;5418
+222;tubo pvc 100mm 6m;hidraulica;amanco;351.98;1287
+223;torneira plastica jardim;hidraulica;herc;475.33;3324
+224;registro esfera 3/4;hidraulica;docol;144.54;5651
+225;parafuso madeira 4x40;fixacao;ciser;324.91;2663
+226;cimento cp2 50kg;cimento;votoran;311.28;5062
+227;cimento cp3 50kg;cimento;nacional;240.53;2738
+228;areia media m3;agregado;local;233.68;4945
+229;areia fina m3;agregado;local;327.27;4005
+230;brita 1 m3;agregado;local;454.88;889
+231;tijolo ceramico 6 furos;alvenaria;olaria;476.05;5341
+232;tijolo ceramico 8 furos;alvenaria;olaria;368.14;3106
+233;bloco concreto 14x19x39;alvenaria;precon;326.78;3490
+234;argamassa ac1 20kg;argamassa;quartzolit;64.2;4783
+235;argamassa ac2 20kg;argamassa;quartzolit;194.58;329
+236;rejunte cinza 1kg;acabamento;quartzolit;405.56;5689
+237;cal hidratada 20kg;insumo;itaubira;4.6;3130
+238;gesso rapido 40kg;insumo;maxgesso;127.04;2390
+239;tinta latex branco 18l;tinta;suvinil;135.35;3129
+240;tinta acrilica branco 18l;tinta;coral;446.81;2323
+241;rolo pintura 23cm;ferramenta;atlas;318.74;735
+242;pincel 2 pol;pintura;atlas;229.59;331
+243;lixa ferro 80;acabamento;norton;382.06;2225
+244;cabo flexivel 2.5mm 100m;eletrica;prysmian;457.64;5715
+245;disjuntor 16a;eletrica;weg;308.06;4349
+246;tubo pvc 50mm 6m;hidraulica;amanco;5.98;5047
+247;tubo pvc 100mm 6m;hidraulica;amanco;260.3;3926
+248;torneira plastica jardim;hidraulica;herc;186.21;3141
+249;registro esfera 3/4;hidraulica;docol;51.31;3541
+250;parafuso madeira 4x40;fixacao;ciser;157.91;438
+251;cimento cp2 50kg;cimento;votoran;320.23;3524
+252;cimento cp3 50kg;cimento;nacional;379.87;5626
+253;areia media m3;agregado;local;407.67;4718
+254;areia fina m3;agregado;local;137.45;5647
+255;brita 1 m3;agregado;local;310.06;4027
+256;tijolo ceramico 6 furos;alvenaria;olaria;386.53;540
+257;tijolo ceramico 8 furos;alvenaria;olaria;235.62;3555
+258;bloco concreto 14x19x39;alvenaria;precon;342.43;3178
+259;argamassa ac1 20kg;argamassa;quartzolit;144.26;4046
+260;argamassa ac2 20kg;argamassa;quartzolit;97.8;2512
+261;rejunte cinza 1kg;acabamento;quartzolit;461.65;2565
+262;cal hidratada 20kg;insumo;itaubira;160.91;4185
+263;gesso rapido 40kg;insumo;maxgesso;176.96;2202
+264;tinta latex branco 18l;tinta;suvinil;232.65;3160
+265;tinta acrilica branco 18l;tinta;coral;298.05;2859
+266;rolo pintura 23cm;ferramenta;atlas;100.29;2703
+267;pincel 2 pol;pintura;atlas;333.38;690
+268;lixa ferro 80;acabamento;norton;304.18;1945
+269;cabo flexivel 2.5mm 100m;eletrica;prysmian;356.85;5505
+270;disjuntor 16a;eletrica;weg;72.47;3283
+271;tubo pvc 50mm 6m;hidraulica;amanco;58.33;247
+272;tubo pvc 100mm 6m;hidraulica;amanco;34.81;1892
+273;torneira plastica jardim;hidraulica;herc;169.48;4257
+274;registro esfera 3/4;hidraulica;docol;170.48;4259
+275;parafuso madeira 4x40;fixacao;ciser;266.87;5177
+276;cimento cp2 50kg;cimento;votoran;129.7;4480
+277;cimento cp3 50kg;cimento;nacional;495.05;3141
+278;areia media m3;agregado;local;161.58;4269
+279;areia fina m3;agregado;local;114.1;4769
+280;brita 1 m3;agregado;local;224.68;4901
+281;tijolo ceramico 6 furos;alvenaria;olaria;316.27;2001
+282;tijolo ceramico 8 furos;alvenaria;olaria;28.73;3792
+283;bloco concreto 14x19x39;alvenaria;precon;469.47;3030
+284;argamassa ac1 20kg;argamassa;quartzolit;304.65;3367
+285;argamassa ac2 20kg;argamassa;quartzolit;128.35;4324
+286;rejunte cinza 1kg;acabamento;quartzolit;30.84;649
+287;cal hidratada 20kg;insumo;itaubira;467.87;4689
+288;gesso rapido 40kg;insumo;maxgesso;386.92;1270
+289;tinta latex branco 18l;tinta;suvinil;456.89;3419
+290;tinta acrilica branco 18l;tinta;coral;47.6;274
