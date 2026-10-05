@@ -1,0 +1,425 @@
+codigo_cliente,nome,sobrenome,endereco,bairro,cidade,telefone,CPF,email
+1,Gustavo,Pereira,"Rua dos Lirios, 1210",Savassi,Belo Horizonte,(31) 95705-9305,723.802.863-62,gpereira44@yahoo.com.br
+2,Pedro,Teixeira,"Avenida das Americas, 911",Meireles,Fortaleza,(85) 93094-3634,927.137.226-20,pteixeira65@gmail.com
+3,Thiago,Nascimento,"Rua das Acacias, 461",Barra da Tijuca,Rio de Janeiro,(21) 94999-9735,155.159.949-93,tnascimento87@yahoo.com.br
+4,Pedro,Nascimento,"Avenida Central, 750",Centro,Curitiba,(44) 92338-4389,794.427.881-26,pnascimento19@outlook.com
+5,Rafael,Ribeiro,"Avenida Brasil, 30",Savassi,Belo Horizonte,(31) 99488-1022,156.203.955-57,rribeiro32@gmail.com
+6,Felipe,Azevedo,"Rua das Palmeiras, 868",Meireles,Fortaleza,(85) 95822-1424,866.194.472-88,fazevedo89@hotmail.com
+7,Mariana,Souza,"Rua dos Lirios, 449",Boa Viagem,Recife,(81) 96971-2508,772.856.365-34,msouza65@hotmail.com
+8,Patricia,Almeida,"Avenida Central, 48",Bonsucesso,Rio de Janeiro,(21) 98901-2190,730.531.667-33,palmeida52@gmail.com
+9,Vanessa,Santos,"Rua Sao Jorge, 815",Barra da Tijuca,Rio de Janeiro,(21) 96244-5627,220.902.724-82,vsantos28@hotmail.com
+10,Larissa,Lima,"Avenida das Americas, 631",Campina,Belem,(91) 98287-1562,949.536.532-49,llima42@hotmail.com
+11,Maria,Teixeira,"Rua das Acacias, 1102",Savassi,Belo Horizonte,(31) 91859-8912,194.351.607-84,mteixeira72@yahoo.com.br
+12,Rafael,Azevedo,"Rua Primavera, 509",Icarai,Niteroi,(21) 99559-3698,719.218.463-85,razevedo66@gmail.com
+13,Felipe,Pereira,"Rua do Comercio, 932",Meireles,Fortaleza,(85) 92742-6595,838.934.559-57,fpereira5@yahoo.com.br
+14,Renata,Silva,"Avenida Central, 1447",Meireles,Fortaleza,(85) 94874-3583,142.742.859-41,rsilva95@outlook.com
+15,Fernanda,Moura,"Rua dos Lirios, 1263",Barra da Tijuca,Rio de Janeiro,(21) 96517-6678,341.592.888-18,fmoura30@yahoo.com.br
+16,Larissa,Azevedo,"Rua das Flores, 762",Savassi,Belo Horizonte,(31) 91017-2494,876.139.112-35,lazevedo3@yahoo.com.br
+17,Larissa,Miranda,"Rua dos Lirios, 1067",Centro,Curitiba,(44) 91131-4588,901.315.838-50,lmiranda33@outlook.com
+18,Ana,Ribeiro,"Avenida Brasil, 188",Boa Viagem,Recife,(81) 95174-3345,262.373.170-56,aribeiro80@gmail.com
+19,Fernanda,Silva,"Rua Primavera, 398",Bonsucesso,Rio de Janeiro,(21) 92154-4154,511.688.306-50,fsilva53@hotmail.com
+20,Bianca,Souza,"Rua Sao Jorge, 153",Jardins,Sao Paulo,(11) 97725-5041,661.418.265-83,bsouza62@hotmail.com
+21,Amanda,Nascimento,"Rua do Comercio, 1331",Campina,Belem,(91) 91518-2361,457.100.400-21,anascimento49@outlook.com
+22,Carlos,Nascimento,"Rua das Acacias, 497",Jardins,Sao Paulo,(11) 92163-7328,911.981.664-50,cnascimento23@gmail.com
+23,Larissa,Carvalho,"Rua das Palmeiras, 954",Barra da Tijuca,Rio de Janeiro,(21) 95967-5210,394.822.385-19,lcarvalho52@gmail.com
+24,Larissa,Azevedo,"Rua dos Lirios, 618",Icarai,Niteroi,(21) 99150-1248,687.731.979-44,lazevedo11@yahoo.com.br
+25,Patricia,Rocha,"Rua das Palmeiras, 73",Jardins,Sao Paulo,(11) 95705-5113,416.839.908-87,procha68@gmail.com
+26,Eduardo,Silva,"Rua Sao Jorge, 1281",Barra da Tijuca,Rio de Janeiro,(21) 98692-1539,937.277.302-79,esilva20@yahoo.com.br
+27,Bianca,Costa,"Rua do Comercio, 781",Jardins,Sao Paulo,(11) 93001-5064,153.177.967-16,bcosta66@gmail.com
+28,Amanda,Carvalho,"Rua dos Lirios, 323",Icarai,Niteroi,(21) 99767-1204,862.821.560-14,acarvalho68@hotmail.com
+29,Fernanda,Rodrigues,"Avenida Central, 173",Jardins,Sao Paulo,(11) 98452-1052,178.794.475-81,frodrigues26@yahoo.com.br
+30,Ana,Azevedo,"Rua dos Lirios, 656",Centro,Curitiba,(44) 92537-4706,890.256.668-58,aazevedo61@outlook.com
+31,Camila,Costa,"Rua das Flores, 83",Barra da Tijuca,Rio de Janeiro,(21) 99382-4343,542.486.150-97,ccosta89@hotmail.com
+32,Ana,Teixeira,"Avenida das Americas, 555",Centro,Londrina,(43) 99397-9385,351.976.820-47,ateixeira82@hotmail.com
+33,Pedro,Costa,"Rua das Flores, 403",Jardins,Sao Paulo,(11) 99473-8010,381.509.885-34,pcosta1@yahoo.com.br
+34,Carolina,Moreira,"Rua Primavera, 786",Campina,Belem,(91) 92415-5625,621.843.442-66,cmoreira4@gmail.com
+35,Fernanda,Oliveira,"Rua do Comercio, 437",Jardins,Sao Paulo,(11) 98629-4361,613.374.835-85,foliveira47@outlook.com
+36,Juliana,Azevedo,"Rua das Palmeiras, 750",Savassi,Belo Horizonte,(31) 91193-5539,830.223.524-50,jazevedo97@yahoo.com.br
+37,Renata,Nascimento,"Avenida Central, 315",Centro,Londrina,(43) 97700-8392,760.211.387-66,rnascimento17@yahoo.com.br
+38,Larissa,Lima,"Rua das Palmeiras, 456",Bonsucesso,Rio de Janeiro,(21) 91429-9904,867.909.155-64,llima91@yahoo.com.br
+39,Camila,Lima,"Rua Primavera, 452",Meireles,Fortaleza,(85) 92650-5719,304.541.253-62,clima23@gmail.com
+40,Gustavo,Nascimento,"Rua Primavera, 1009",Centro,Londrina,(43) 91044-9546,681.148.851-85,gnascimento36@yahoo.com.br
+41,Paulo,Azevedo,"Rua do Comercio, 465",Icarai,Niteroi,(21) 91221-2843,919.543.637-55,pazevedo98@yahoo.com.br
+42,Pedro,Teixeira,"Rua das Acacias, 802",Icarai,Niteroi,(21) 95815-5151,685.729.852-37,pteixeira52@outlook.com
+43,Bianca,Silva,"Rua Primavera, 20",Centro,Londrina,(43) 99676-4507,802.377.756-96,bsilva8@gmail.com
+44,Carlos,Costa,"Rua Sao Jorge, 1236",Meireles,Fortaleza,(85) 97032-7006,710.865.957-45,ccosta67@yahoo.com.br
+45,Eduardo,Costa,"Avenida das Americas, 1225",Boa Viagem,Recife,(81) 93079-5134,650.377.892-36,ecosta21@yahoo.com.br
+46,Lucas,Pereira,"Avenida Brasil, 295",Centro,Londrina,(43) 98476-2536,425.371.300-92,lpereira93@hotmail.com
+47,Pedro,Moreira,"Avenida das Americas, 631",Savassi,Belo Horizonte,(31) 95137-4801,685.326.375-77,pmoreira12@gmail.com
+48,Lucas,Moura,"Rua do Comercio, 1025",Barra da Tijuca,Rio de Janeiro,(21) 93632-7760,165.621.921-84,lmoura37@outlook.com
+49,Carlos,Miranda,"Rua das Palmeiras, 1485",Meireles,Fortaleza,(85) 93101-1113,436.202.990-79,cmiranda35@yahoo.com.br
+50,Juliana,Lima,"Avenida Central, 84",Bonsucesso,Rio de Janeiro,(21) 97238-2752,537.547.347-61,jlima56@outlook.com
+51,Fernanda,Azevedo,"Avenida das Americas, 548",Centro,Curitiba,(44) 92590-2928,908.639.420-75,fazevedo70@yahoo.com.br
+52,Juliana,Teixeira,"Avenida Brasil, 61",Jardins,Sao Paulo,(11) 95481-4504,829.297.487-60,jteixeira96@yahoo.com.br
+53,Bruno,Santos,"Rua dos Lirios, 180",Savassi,Belo Horizonte,(31) 95578-5864,787.375.978-70,bsantos12@yahoo.com.br
+54,Thiago,Ribeiro,"Rua das Palmeiras, 243",Centro,Curitiba,(44) 97869-7483,581.627.792-31,tribeiro59@hotmail.com
+55,Patricia,Miranda,"Rua das Acacias, 91",Jardins,Sao Paulo,(11) 95454-2082,544.320.446-33,pmiranda25@outlook.com
+56,Fernanda,Lima,"Rua Primavera, 1127",Savassi,Belo Horizonte,(31) 98447-7028,964.234.129-68,flima47@outlook.com
+57,Renata,Rocha,"Avenida Brasil, 1445",Bonsucesso,Rio de Janeiro,(21) 96905-4341,627.229.760-82,rrocha96@yahoo.com.br
+58,Mariana,Lima,"Rua dos Lirios, 119",Barra da Tijuca,Rio de Janeiro,(21) 99309-5783,711.961.983-89,mlima67@outlook.com
+59,Camila,Azevedo,"Rua do Comercio, 1287",Boa Viagem,Recife,(81) 93618-4301,537.188.580-65,cazevedo9@outlook.com
+60,Vanessa,Teixeira,"Rua das Acacias, 811",Barra da Tijuca,Rio de Janeiro,(21) 93000-7713,535.698.126-59,vteixeira52@gmail.com
+61,Larissa,Souza,"Avenida das Americas, 1050",Centro,Curitiba,(44) 96984-1223,971.812.533-22,lsouza39@outlook.com
+62,Maria,Carvalho,"Rua Primavera, 1222",Bonsucesso,Rio de Janeiro,(21) 97595-4754,171.383.936-30,mcarvalho36@hotmail.com
+63,Joao,Santos,"Rua das Acacias, 146",Meireles,Fortaleza,(85) 97025-1949,725.380.884-15,jsantos43@hotmail.com
+64,Thiago,Azevedo,"Avenida das Americas, 1214",Bonsucesso,Rio de Janeiro,(21) 91634-3639,683.199.991-21,tazevedo6@outlook.com
+65,Pedro,Rocha,"Rua Primavera, 751",Boa Viagem,Recife,(81) 91849-7845,879.238.442-81,procha9@gmail.com
+66,Lucas,Carvalho,"Rua dos Lirios, 1190",Bonsucesso,Rio de Janeiro,(21) 99567-9659,829.475.516-70,lcarvalho7@outlook.com
+67,Amanda,Ribeiro,"Avenida Central, 219",Icarai,Niteroi,(21) 98100-2040,731.464.290-95,aribeiro35@gmail.com
+68,Thiago,Almeida,"Rua do Comercio, 649",Centro,Londrina,(43) 96881-9173,288.400.599-67,talmeida6@outlook.com
+69,Carlos,Carvalho,"Rua das Acacias, 138",Centro,Curitiba,(44) 92761-2327,397.738.602-40,ccarvalho93@yahoo.com.br
+70,Patricia,Miranda,"Rua dos Lirios, 683",Barra da Tijuca,Rio de Janeiro,(21) 96846-6744,682.599.329-28,pmiranda10@outlook.com
+71,Thiago,Rodrigues,"Avenida Central, 482",Centro,Curitiba,(44) 98391-1357,919.890.771-12,trodrigues73@gmail.com
+72,Bianca,Almeida,"Rua Sao Jorge, 1074",Boa Viagem,Recife,(81) 95328-4436,575.627.459-76,balmeida11@hotmail.com
+73,Lucas,Azevedo,"Rua dos Lirios, 247",Jardins,Sao Paulo,(11) 94758-6478,223.531.949-15,lazevedo21@yahoo.com.br
+74,Renata,Azevedo,"Avenida Central, 807",Bonsucesso,Rio de Janeiro,(21) 96251-6966,999.756.422-55,razevedo93@yahoo.com.br
+75,Mariana,Santos,"Rua das Palmeiras, 1299",Campina,Belem,(91) 91897-1196,772.684.942-13,msantos21@yahoo.com.br
+76,Pedro,Oliveira,"Rua Primavera, 894",Savassi,Belo Horizonte,(31) 98931-2584,671.173.120-40,poliveira12@outlook.com
+77,Amanda,Lima,"Avenida das Americas, 608",Meireles,Fortaleza,(85) 99638-3101,196.139.493-29,alima87@hotmail.com
+78,Paulo,Costa,"Rua das Flores, 521",Icarai,Niteroi,(21) 93453-7081,454.869.925-60,pcosta86@yahoo.com.br
+79,Patricia,Teixeira,"Avenida Central, 1102",Barra da Tijuca,Rio de Janeiro,(21) 95337-5477,346.591.883-47,pteixeira10@gmail.com
+80,Joao,Azevedo,"Rua Sao Jorge, 121",Meireles,Fortaleza,(85) 93840-3265,493.972.428-68,jazevedo20@gmail.com
+81,Bianca,Silva,"Avenida Central, 903",Meireles,Fortaleza,(85) 96197-4030,191.219.152-51,bsilva1@gmail.com
+82,Gustavo,Moura,"Rua das Palmeiras, 213",Jardins,Sao Paulo,(11) 93883-2270,375.149.927-86,gmoura74@yahoo.com.br
+83,Rafael,Rodrigues,"Rua das Flores, 759",Boa Viagem,Recife,(81) 98066-4419,544.636.155-73,rrodrigues30@hotmail.com
+84,Juliana,Pereira,"Rua dos Lirios, 627",Centro,Curitiba,(44) 93691-5200,809.932.726-21,jpereira3@yahoo.com.br
+85,Camila,Azevedo,"Avenida das Americas, 309",Boa Viagem,Recife,(81) 94458-4529,757.172.567-50,cazevedo68@gmail.com
+86,Felipe,Almeida,"Rua das Palmeiras, 1440",Bonsucesso,Rio de Janeiro,(21) 93314-6445,781.843.154-92,falmeida87@outlook.com
+87,Mariana,Miranda,"Rua Primavera, 1302",Bonsucesso,Rio de Janeiro,(21) 92019-2776,599.746.862-71,mmiranda31@outlook.com
+88,Carlos,Pereira,"Avenida Central, 1147",Centro,Londrina,(43) 93302-4283,557.999.487-13,cpereira83@gmail.com
+89,Bruno,Almeida,"Avenida das Americas, 1179",Meireles,Fortaleza,(85) 96125-8422,696.578.738-58,balmeida11@outlook.com
+90,Paulo,Santos,"Rua Sao Jorge, 30",Bonsucesso,Rio de Janeiro,(21) 95368-9456,619.417.507-16,psantos97@gmail.com
+91,Gustavo,Moura,"Avenida Brasil, 746",Jardins,Sao Paulo,(11) 97985-3073,184.624.199-88,gmoura3@yahoo.com.br
+92,Carlos,Ribeiro,"Avenida Brasil, 431",Boa Viagem,Recife,(81) 94540-4146,316.849.888-26,cribeiro7@yahoo.com.br
+93,Thiago,Rodrigues,"Avenida Brasil, 137",Barra da Tijuca,Rio de Janeiro,(21) 94562-3234,904.384.122-16,trodrigues66@yahoo.com.br
+94,Bruno,Silva,"Avenida das Americas, 1282",Icarai,Niteroi,(21) 92955-9241,784.741.737-70,bsilva85@outlook.com
+95,Joao,Silva,"Rua Sao Jorge, 474",Centro,Londrina,(43) 92078-9861,186.240.644-14,jsilva10@outlook.com
+96,Paulo,Moura,"Rua das Palmeiras, 25",Savassi,Belo Horizonte,(31) 94687-4501,431.894.875-69,pmoura51@outlook.com
+97,Fernanda,Nascimento,"Rua Primavera, 831",Boa Viagem,Recife,(81) 93017-8292,694.655.228-40,fnascimento45@yahoo.com.br
+98,Amanda,Almeida,"Rua Primavera, 794",Bonsucesso,Rio de Janeiro,(21) 96422-9763,778.438.701-80,aalmeida30@yahoo.com.br
+99,Eduardo,Nascimento,"Rua Primavera, 128",Bonsucesso,Rio de Janeiro,(21) 92702-4727,865.300.720-61,enascimento71@outlook.com
+100,Lucas,Moura,"Rua das Flores, 261",Bonsucesso,Rio de Janeiro,(21) 97602-1049,917.284.804-91,lmoura74@outlook.com
+101,Joao,Ribeiro,"Rua das Palmeiras, 1228",Icarai,Niteroi,(21) 92695-6700,271.612.312-70,jribeiro18@outlook.com
+102,Camila,Carvalho,"Rua das Acacias, 33",Savassi,Belo Horizonte,(31) 95191-5184,202.485.159-63,ccarvalho35@yahoo.com.br
+103,Rafael,Miranda,"Rua do Comercio, 935",Jardins,Sao Paulo,(11) 97631-3739,462.843.257-22,rmiranda54@hotmail.com
+104,Paulo,Almeida,"Avenida Central, 569",Centro,Londrina,(43) 93562-9358,948.666.354-35,palmeida73@yahoo.com.br
+105,Carlos,Costa,"Avenida Central, 905",Savassi,Belo Horizonte,(31) 93798-4828,657.215.971-46,ccosta86@yahoo.com.br
+106,Ana,Teixeira,"Avenida Brasil, 24",Campina,Belem,(91) 93349-1635,153.878.982-20,ateixeira15@gmail.com
+107,Gustavo,Souza,"Avenida das Americas, 509",Campina,Belem,(91) 93111-1056,991.342.617-54,gsouza10@outlook.com
+108,Felipe,Nascimento,"Avenida das Americas, 1219",Boa Viagem,Recife,(81) 98784-3619,562.113.921-40,fnascimento27@gmail.com
+109,Juliana,Santos,"Rua dos Lirios, 1084",Icarai,Niteroi,(21) 98809-7681,850.274.878-85,jsantos17@gmail.com
+110,Fernanda,Silva,"Rua dos Lirios, 875",Icarai,Niteroi,(21) 92589-6130,205.709.381-14,fsilva69@hotmail.com
+111,Bruno,Costa,"Rua dos Lirios, 1498",Centro,Curitiba,(44) 98847-5092,671.837.965-94,bcosta10@yahoo.com.br
+112,Rafael,Nascimento,"Rua do Comercio, 1023",Jardins,Sao Paulo,(11) 92381-8259,889.478.311-80,rnascimento1@yahoo.com.br
+113,Ana,Nascimento,"Rua das Palmeiras, 1030",Savassi,Belo Horizonte,(31) 97627-6158,307.898.791-94,anascimento34@outlook.com
+114,Gustavo,Santos,"Rua das Flores, 1405",Centro,Londrina,(43) 91368-3791,199.464.647-39,gsantos3@yahoo.com.br
+115,Bruno,Moreira,"Rua das Acacias, 427",Savassi,Belo Horizonte,(31) 94399-6354,376.110.882-60,bmoreira39@outlook.com
+116,Vanessa,Carvalho,"Rua Sao Jorge, 607",Jardins,Sao Paulo,(11) 98393-7258,812.870.761-80,vcarvalho21@hotmail.com
+117,Pedro,Silva,"Avenida Brasil, 697",Centro,Londrina,(43) 96917-5220,472.331.303-88,psilva2@hotmail.com
+118,Pedro,Silva,"Rua das Palmeiras, 50",Centro,Curitiba,(44) 94000-6885,699.781.353-61,psilva49@outlook.com
+119,Lucas,Moreira,"Avenida das Americas, 1106",Boa Viagem,Recife,(81) 98881-4696,742.484.863-84,lmoreira88@yahoo.com.br
+120,Eduardo,Pereira,"Rua dos Lirios, 845",Boa Viagem,Recife,(81) 98889-2890,180.116.650-13,epereira94@hotmail.com
+121,Joao,Oliveira,"Rua das Palmeiras, 204",Barra da Tijuca,Rio de Janeiro,(21) 98651-4704,212.266.270-81,joliveira74@yahoo.com.br
+122,Rafael,Moura,"Rua Primavera, 476",Bonsucesso,Rio de Janeiro,(21) 97255-6690,403.493.128-12,rmoura93@yahoo.com.br
+123,Bianca,Rodrigues,"Rua Sao Jorge, 1242",Barra da Tijuca,Rio de Janeiro,(21) 93515-1743,930.982.163-51,brodrigues98@hotmail.com
+124,Maria,Oliveira,"Rua das Flores, 586",Jardins,Sao Paulo,(11) 93505-5512,808.260.354-33,moliveira72@outlook.com
+125,Camila,Rocha,"Avenida Brasil, 735",Boa Viagem,Recife,(81) 91737-8156,415.966.726-22,crocha4@yahoo.com.br
+126,Larissa,Ribeiro,"Avenida Brasil, 901",Boa Viagem,Recife,(81) 94641-3826,546.834.732-97,lribeiro29@gmail.com
+127,Felipe,Rocha,"Rua Sao Jorge, 244",Meireles,Fortaleza,(85) 94377-1449,209.237.577-76,frocha15@outlook.com
+128,Joao,Teixeira,"Rua Primavera, 863",Icarai,Niteroi,(21) 91605-3880,311.453.440-83,jteixeira54@gmail.com
+129,Amanda,Costa,"Rua Sao Jorge, 339",Jardins,Sao Paulo,(11) 92633-7133,402.831.704-14,acosta55@yahoo.com.br
+130,Bruno,Almeida,"Rua Sao Jorge, 913",Centro,Curitiba,(44) 97358-8333,466.310.641-70,balmeida84@yahoo.com.br
+131,Felipe,Silva,"Rua das Palmeiras, 900",Savassi,Belo Horizonte,(31) 91137-4090,838.763.661-50,fsilva79@yahoo.com.br
+132,Vanessa,Teixeira,"Rua Primavera, 1428",Boa Viagem,Recife,(81) 96700-1116,838.185.268-78,vteixeira30@yahoo.com.br
+133,Ana,Azevedo,"Rua das Palmeiras, 1462",Meireles,Fortaleza,(85) 94522-1789,798.806.879-12,aazevedo97@yahoo.com.br
+134,Renata,Moura,"Rua das Flores, 1407",Jardins,Sao Paulo,(11) 91033-2705,110.884.808-16,rmoura97@gmail.com
+135,Maria,Teixeira,"Avenida Brasil, 1127",Jardins,Sao Paulo,(11) 94634-8020,470.186.132-93,mteixeira81@hotmail.com
+136,Ana,Almeida,"Rua Primavera, 1369",Savassi,Belo Horizonte,(31) 97344-3848,717.546.142-21,aalmeida78@hotmail.com
+137,Juliana,Lima,"Avenida Central, 1476",Campina,Belem,(91) 97429-2711,740.839.116-74,jlima58@hotmail.com
+138,Felipe,Nascimento,"Rua do Comercio, 126",Icarai,Niteroi,(21) 96778-4948,355.469.152-88,fnascimento56@gmail.com
+139,Paulo,Moura,"Avenida Brasil, 24",Centro,Curitiba,(44) 99133-8120,726.902.405-33,pmoura5@outlook.com
+140,Juliana,Almeida,"Rua do Comercio, 1323",Bonsucesso,Rio de Janeiro,(21) 92638-6719,946.194.170-99,jalmeida37@gmail.com
+141,Amanda,Nascimento,"Rua do Comercio, 1122",Jardins,Sao Paulo,(11) 94965-2972,250.531.296-51,anascimento56@hotmail.com
+142,Camila,Miranda,"Avenida Brasil, 652",Meireles,Fortaleza,(85) 95943-8217,724.495.788-27,cmiranda50@gmail.com
+143,Juliana,Oliveira,"Avenida das Americas, 1342",Meireles,Fortaleza,(85) 93521-8106,580.633.486-52,joliveira87@yahoo.com.br
+144,Larissa,Nascimento,"Rua das Palmeiras, 1003",Barra da Tijuca,Rio de Janeiro,(21) 94061-9616,253.631.553-65,lnascimento9@hotmail.com
+145,Patricia,Pereira,"Rua do Comercio, 300",Centro,Curitiba,(44) 97130-9092,555.201.652-63,ppereira9@gmail.com
+146,Gustavo,Carvalho,"Avenida Brasil, 145",Meireles,Fortaleza,(85) 93744-9311,320.715.227-69,gcarvalho97@yahoo.com.br
+147,Vanessa,Moreira,"Avenida das Americas, 140",Icarai,Niteroi,(21) 93991-5479,981.694.741-40,vmoreira64@hotmail.com
+148,Thiago,Lima,"Rua dos Lirios, 435",Bonsucesso,Rio de Janeiro,(21) 94375-7802,377.596.904-25,tlima62@hotmail.com
+149,Camila,Oliveira,"Rua dos Lirios, 1226",Barra da Tijuca,Rio de Janeiro,(21) 96269-2819,364.494.297-60,coliveira23@gmail.com
+150,Paulo,Rocha,"Rua Primavera, 344",Icarai,Niteroi,(21) 97377-1955,397.649.922-62,procha74@hotmail.com
+151,Carolina,Moreira,"Avenida Central, 902",Bonsucesso,Rio de Janeiro,(21) 95846-4161,994.280.530-33,cmoreira88@gmail.com
+152,Rafael,Teixeira,"Rua do Comercio, 182",Jardins,Sao Paulo,(11) 97456-9298,712.289.755-34,rteixeira70@yahoo.com.br
+153,Carolina,Carvalho,"Rua das Flores, 289",Meireles,Fortaleza,(85) 91244-1087,925.902.690-17,ccarvalho33@yahoo.com.br
+154,Bruno,Azevedo,"Rua das Flores, 697",Centro,Londrina,(43) 96445-1087,720.912.696-16,bazevedo91@hotmail.com
+155,Bianca,Moura,"Rua do Comercio, 1031",Jardins,Sao Paulo,(11) 98140-5812,525.800.463-72,bmoura51@gmail.com
+156,Mariana,Ribeiro,"Rua dos Lirios, 1068",Bonsucesso,Rio de Janeiro,(21) 92588-5845,243.552.717-99,mribeiro62@outlook.com
+157,Amanda,Nascimento,"Rua Primavera, 83",Barra da Tijuca,Rio de Janeiro,(21) 91605-3368,260.988.653-70,anascimento76@outlook.com
+158,Rafael,Ribeiro,"Rua dos Lirios, 681",Savassi,Belo Horizonte,(31) 95584-8056,575.975.195-64,rribeiro67@yahoo.com.br
+159,Vanessa,Ribeiro,"Rua das Palmeiras, 929",Icarai,Niteroi,(21) 94570-3379,655.493.146-53,vribeiro39@hotmail.com
+160,Carolina,Moreira,"Rua do Comercio, 44",Centro,Londrina,(43) 97153-6351,885.748.242-35,cmoreira81@yahoo.com.br
+161,Juliana,Oliveira,"Rua das Palmeiras, 102",Bonsucesso,Rio de Janeiro,(21) 96842-7947,118.271.625-54,joliveira85@yahoo.com.br
+162,Vanessa,Oliveira,"Rua do Comercio, 1355",Meireles,Fortaleza,(85) 98785-6653,627.616.756-86,voliveira56@gmail.com
+163,Carolina,Pereira,"Rua das Acacias, 968",Centro,Londrina,(43) 94380-6076,385.820.595-86,cpereira66@gmail.com
+164,Bruno,Nascimento,"Rua dos Lirios, 510",Barra da Tijuca,Rio de Janeiro,(21) 94374-1515,566.709.800-20,bnascimento2@hotmail.com
+165,Vanessa,Rocha,"Rua das Acacias, 1263",Meireles,Fortaleza,(85) 99757-7077,596.320.963-52,vrocha6@yahoo.com.br
+166,Carolina,Costa,"Rua das Acacias, 1416",Centro,Curitiba,(44) 99778-8818,584.871.346-72,ccosta33@yahoo.com.br
+167,Bruno,Oliveira,"Rua das Flores, 880",Meireles,Fortaleza,(85) 97444-2600,709.239.881-60,boliveira60@outlook.com
+168,Gustavo,Lima,"Rua Sao Jorge, 752",Icarai,Niteroi,(21) 93632-1793,920.324.859-73,glima99@outlook.com
+169,Patricia,Rocha,"Avenida Central, 641",Boa Viagem,Recife,(81) 96266-3249,260.436.786-31,procha34@gmail.com
+170,Camila,Moura,"Rua Sao Jorge, 669",Campina,Belem,(91) 91097-2127,501.620.578-76,cmoura87@outlook.com
+171,Fernanda,Moura,"Avenida Brasil, 732",Centro,Londrina,(43) 96198-8705,733.492.715-43,fmoura64@hotmail.com
+172,Thiago,Lima,"Rua Sao Jorge, 42",Boa Viagem,Recife,(81) 95416-1918,647.301.364-23,tlima25@gmail.com
+173,Gustavo,Miranda,"Rua das Acacias, 345",Centro,Londrina,(43) 96688-5745,725.894.209-16,gmiranda18@gmail.com
+174,Bianca,Oliveira,"Rua do Comercio, 489",Bonsucesso,Rio de Janeiro,(21) 92716-4291,656.560.652-35,boliveira33@yahoo.com.br
+175,Bruno,Moreira,"Avenida Central, 462",Centro,Londrina,(43) 96328-4095,282.232.491-70,bmoreira26@outlook.com
+176,Pedro,Ribeiro,"Rua Sao Jorge, 113",Boa Viagem,Recife,(81) 93877-1251,573.314.279-30,pribeiro78@hotmail.com
+177,Camila,Lima,"Rua dos Lirios, 371",Campina,Belem,(91) 96763-4204,703.678.275-88,clima74@outlook.com
+178,Bianca,Carvalho,"Rua dos Lirios, 650",Boa Viagem,Recife,(81) 95731-3305,254.234.110-97,bcarvalho32@gmail.com
+179,Rafael,Azevedo,"Rua das Flores, 528",Campina,Belem,(91) 94473-5344,919.628.879-24,razevedo68@gmail.com
+180,Patricia,Lima,"Rua Primavera, 341",Boa Viagem,Recife,(81) 99177-8248,668.142.590-42,plima70@outlook.com
+181,Felipe,Miranda,"Rua Sao Jorge, 861",Centro,Curitiba,(44) 92338-9636,723.867.861-83,fmiranda45@yahoo.com.br
+182,Renata,Rocha,"Rua Primavera, 712",Centro,Londrina,(43) 97570-7036,506.593.265-54,rrocha57@outlook.com
+183,Larissa,Lima,"Rua do Comercio, 830",Campina,Belem,(91) 96434-7375,206.176.856-73,llima58@gmail.com
+184,Carolina,Souza,"Rua das Palmeiras, 1064",Jardins,Sao Paulo,(11) 93594-7739,409.372.995-19,csouza90@hotmail.com
+185,Paulo,Miranda,"Rua das Acacias, 1449",Meireles,Fortaleza,(85) 93010-8044,245.671.212-43,pmiranda61@hotmail.com
+186,Renata,Lima,"Avenida Central, 753",Barra da Tijuca,Rio de Janeiro,(21) 93151-1354,312.190.757-72,rlima14@yahoo.com.br
+187,Joao,Santos,"Rua Sao Jorge, 1214",Centro,Londrina,(43) 95736-1840,791.988.829-68,jsantos10@gmail.com
+188,Rafael,Santos,"Rua das Palmeiras, 177",Bonsucesso,Rio de Janeiro,(21) 92799-7639,256.925.328-53,rsantos42@gmail.com
+189,Bianca,Teixeira,"Avenida Central, 609",Centro,Curitiba,(44) 99743-7303,222.459.469-28,bteixeira42@gmail.com
+190,Lucas,Lima,"Rua das Palmeiras, 496",Boa Viagem,Recife,(81) 99896-3394,108.140.889-30,llima18@yahoo.com.br
+191,Larissa,Lima,"Rua dos Lirios, 849",Barra da Tijuca,Rio de Janeiro,(21) 99567-5811,497.270.713-47,llima51@hotmail.com
+192,Ana,Lima,"Avenida Central, 1262",Bonsucesso,Rio de Janeiro,(21) 93307-1370,466.138.151-89,alima24@gmail.com
+193,Eduardo,Rocha,"Avenida das Americas, 196",Barra da Tijuca,Rio de Janeiro,(21) 97116-2273,931.751.343-14,erocha75@outlook.com
+194,Juliana,Rodrigues,"Rua das Flores, 1285",Boa Viagem,Recife,(81) 92116-2735,354.139.572-54,jrodrigues19@yahoo.com.br
+195,Larissa,Santos,"Rua Primavera, 1271",Jardins,Sao Paulo,(11) 95487-1724,155.331.848-52,lsantos46@outlook.com
+196,Rafael,Moreira,"Rua das Flores, 852",Savassi,Belo Horizonte,(31) 95531-6316,201.620.883-16,rmoreira84@outlook.com
+197,Renata,Ribeiro,"Avenida Central, 442",Meireles,Fortaleza,(85) 92305-8149,317.674.255-54,rribeiro68@hotmail.com
+198,Lucas,Moura,"Avenida das Americas, 1482",Bonsucesso,Rio de Janeiro,(21) 94754-9194,183.206.458-17,lmoura86@outlook.com
+199,Vanessa,Nascimento,"Rua Primavera, 369",Bonsucesso,Rio de Janeiro,(21) 97933-1055,211.201.935-22,vnascimento37@hotmail.com
+200,Bianca,Almeida,"Rua Sao Jorge, 480",Boa Viagem,Recife,(81) 97351-6668,953.356.983-34,balmeida96@hotmail.com
+201,Mariana,Teixeira,"Rua das Acacias, 620",Barra da Tijuca,Rio de Janeiro,(21) 97993-1126,984.977.398-54,mteixeira5@yahoo.com.br
+202,Bianca,Ribeiro,"Avenida Brasil, 854",Savassi,Belo Horizonte,(31) 95475-4662,646.482.116-86,bribeiro49@outlook.com
+203,Camila,Ribeiro,"Avenida Brasil, 886",Barra da Tijuca,Rio de Janeiro,(21) 97187-6256,176.508.998-77,cribeiro69@hotmail.com
+204,Ana,Rocha,"Rua dos Lirios, 361",Boa Viagem,Recife,(81) 98505-2953,667.289.638-52,arocha93@outlook.com
+205,Camila,Rocha,"Rua Primavera, 1486",Boa Viagem,Recife,(81) 95904-4219,591.837.723-46,crocha98@yahoo.com.br
+206,Carlos,Azevedo,"Rua Sao Jorge, 703",Savassi,Belo Horizonte,(31) 97693-3249,980.382.135-87,cazevedo64@hotmail.com
+207,Pedro,Rocha,"Rua dos Lirios, 1496",Barra da Tijuca,Rio de Janeiro,(21) 98189-2392,415.417.657-31,procha85@hotmail.com
+208,Amanda,Santos,"Rua das Flores, 220",Centro,Londrina,(43) 92776-4725,977.424.814-55,asantos63@outlook.com
+209,Maria,Almeida,"Rua das Flores, 222",Savassi,Belo Horizonte,(31) 95781-8284,504.435.270-47,malmeida58@outlook.com
+210,Patricia,Moura,"Rua das Flores, 535",Campina,Belem,(91) 99051-8420,187.779.122-81,pmoura11@outlook.com
+211,Camila,Miranda,"Rua das Palmeiras, 1185",Centro,Curitiba,(44) 97927-5622,447.925.767-68,cmiranda48@gmail.com
+212,Bruno,Costa,"Rua das Flores, 628",Meireles,Fortaleza,(85) 92725-2515,531.238.642-41,bcosta98@gmail.com
+213,Gustavo,Moura,"Avenida Central, 1456",Campina,Belem,(91) 92883-3629,537.284.210-24,gmoura66@hotmail.com
+214,Ana,Pereira,"Rua das Acacias, 670",Meireles,Fortaleza,(85) 99234-9765,922.840.152-15,apereira66@outlook.com
+215,Carolina,Costa,"Rua das Palmeiras, 603",Campina,Belem,(91) 95233-5915,954.700.722-10,ccosta2@yahoo.com.br
+216,Carlos,Lima,"Rua das Flores, 664",Icarai,Niteroi,(21) 91782-8491,607.106.272-88,clima29@yahoo.com.br
+217,Amanda,Costa,"Avenida Central, 132",Savassi,Belo Horizonte,(31) 95339-8028,674.903.549-49,acosta61@yahoo.com.br
+218,Ana,Oliveira,"Rua Primavera, 604",Campina,Belem,(91) 97580-1802,629.518.139-95,aoliveira34@gmail.com
+219,Amanda,Teixeira,"Rua das Acacias, 166",Bonsucesso,Rio de Janeiro,(21) 91187-5602,125.599.798-67,ateixeira9@hotmail.com
+220,Thiago,Nascimento,"Rua das Acacias, 822",Barra da Tijuca,Rio de Janeiro,(21) 93532-6634,242.914.891-75,tnascimento45@hotmail.com
+221,Mariana,Costa,"Rua das Palmeiras, 1315",Savassi,Belo Horizonte,(31) 99026-5430,538.260.793-87,mcosta8@gmail.com
+222,Larissa,Oliveira,"Rua dos Lirios, 1339",Boa Viagem,Recife,(81) 98312-5574,637.464.258-73,loliveira29@outlook.com
+223,Renata,Teixeira,"Avenida Central, 424",Icarai,Niteroi,(21) 92181-5479,614.267.849-47,rteixeira96@hotmail.com
+224,Mariana,Miranda,"Rua dos Lirios, 1276",Meireles,Fortaleza,(85) 99593-5652,746.437.586-51,mmiranda33@outlook.com
+225,Fernanda,Rocha,"Rua das Acacias, 223",Centro,Curitiba,(44) 93916-7560,779.674.856-52,frocha72@hotmail.com
+226,Joao,Lima,"Avenida das Americas, 708",Jardins,Sao Paulo,(11) 96243-2760,499.938.408-76,jlima84@gmail.com
+227,Joao,Oliveira,"Rua dos Lirios, 1430",Savassi,Belo Horizonte,(31) 96126-4062,948.302.530-68,joliveira69@gmail.com
+228,Patricia,Santos,"Rua das Acacias, 465",Centro,Curitiba,(44) 92087-1781,268.182.316-66,psantos44@outlook.com
+229,Eduardo,Souza,"Rua Primavera, 1069",Barra da Tijuca,Rio de Janeiro,(21) 99321-7262,366.495.520-77,esouza44@gmail.com
+230,Joao,Moreira,"Rua das Acacias, 874",Barra da Tijuca,Rio de Janeiro,(21) 98564-9513,830.406.298-45,jmoreira93@gmail.com
+231,Felipe,Almeida,"Rua do Comercio, 849",Barra da Tijuca,Rio de Janeiro,(21) 95066-4131,586.938.387-49,falmeida34@outlook.com
+232,Gustavo,Ribeiro,"Rua Sao Jorge, 917",Icarai,Niteroi,(21) 91826-1665,373.577.651-34,gribeiro98@hotmail.com
+233,Bianca,Rocha,"Rua do Comercio, 1367",Savassi,Belo Horizonte,(31) 91563-7134,579.462.750-32,brocha45@outlook.com
+234,Paulo,Rocha,"Rua dos Lirios, 768",Savassi,Belo Horizonte,(31) 98669-1003,395.887.962-45,procha19@gmail.com
+235,Gustavo,Souza,"Rua das Acacias, 227",Meireles,Fortaleza,(85) 96431-8753,659.610.993-42,gsouza81@hotmail.com
+236,Renata,Silva,"Avenida das Americas, 266",Icarai,Niteroi,(21) 91861-3417,320.159.592-15,rsilva91@hotmail.com
+237,Amanda,Moreira,"Avenida Central, 1240",Meireles,Fortaleza,(85) 99310-4699,520.292.374-87,amoreira25@hotmail.com
+238,Fernanda,Lima,"Rua das Acacias, 595",Jardins,Sao Paulo,(11) 97421-8234,376.909.917-10,flima88@gmail.com
+239,Pedro,Ribeiro,"Rua dos Lirios, 453",Centro,Londrina,(43) 96289-1178,819.365.804-80,pribeiro83@hotmail.com
+240,Pedro,Pereira,"Rua das Acacias, 46",Centro,Curitiba,(44) 95973-4173,553.114.768-93,ppereira80@yahoo.com.br
+241,Carlos,Silva,"Rua das Acacias, 636",Meireles,Fortaleza,(85) 98971-3177,648.189.141-38,csilva85@yahoo.com.br
+242,Carolina,Almeida,"Rua dos Lirios, 601",Campina,Belem,(91) 93261-1631,296.410.847-61,calmeida57@hotmail.com
+243,Mariana,Carvalho,"Rua das Flores, 891",Icarai,Niteroi,(21) 98855-9194,461.959.330-29,mcarvalho62@yahoo.com.br
+244,Carlos,Oliveira,"Rua Primavera, 330",Barra da Tijuca,Rio de Janeiro,(21) 95949-3320,838.781.480-52,coliveira20@hotmail.com
+245,Felipe,Moura,"Rua das Palmeiras, 521",Jardins,Sao Paulo,(11) 93840-9779,193.549.772-39,fmoura35@yahoo.com.br
+246,Renata,Santos,"Avenida Central, 1435",Bonsucesso,Rio de Janeiro,(21) 92796-3480,886.872.900-86,rsantos68@outlook.com
+247,Carlos,Souza,"Avenida Brasil, 327",Bonsucesso,Rio de Janeiro,(21) 98745-6690,550.647.210-71,csouza28@outlook.com
+248,Pedro,Carvalho,"Rua das Flores, 845",Jardins,Sao Paulo,(11) 94671-9599,273.415.554-39,pcarvalho23@outlook.com
+249,Carolina,Moreira,"Rua das Palmeiras, 13",Boa Viagem,Recife,(81) 96287-3251,853.623.467-17,cmoreira57@outlook.com
+250,Maria,Almeida,"Rua das Flores, 1410",Centro,Curitiba,(44) 97656-6211,130.254.257-68,malmeida53@gmail.com
+251,Maria,Ribeiro,"Avenida das Americas, 1094",Centro,Curitiba,(44) 91549-4765,812.138.818-18,mribeiro89@gmail.com
+252,Renata,Silva,"Rua das Flores, 840",Centro,Curitiba,(44) 92291-5915,957.877.307-49,rsilva71@hotmail.com
+253,Maria,Lima,"Rua do Comercio, 414",Centro,Curitiba,(44) 95630-1213,357.750.437-28,mlima28@hotmail.com
+254,Paulo,Miranda,"Rua do Comercio, 1309",Meireles,Fortaleza,(85) 98235-4724,408.630.966-76,pmiranda27@outlook.com
+255,Thiago,Almeida,"Avenida Brasil, 1393",Boa Viagem,Recife,(81) 91199-1096,722.774.596-12,talmeida2@gmail.com
+256,Bianca,Nascimento,"Rua Sao Jorge, 311",Jardins,Sao Paulo,(11) 93444-4766,853.654.408-84,bnascimento45@gmail.com
+257,Larissa,Lima,"Avenida Central, 1142",Boa Viagem,Recife,(81) 94022-6693,915.648.721-79,llima73@hotmail.com
+258,Fernanda,Lima,"Rua das Flores, 1134",Bonsucesso,Rio de Janeiro,(21) 91099-4667,356.762.905-86,flima40@outlook.com
+259,Paulo,Pereira,"Avenida Central, 149",Savassi,Belo Horizonte,(31) 98129-5148,516.927.518-93,ppereira40@gmail.com
+260,Felipe,Lima,"Avenida das Americas, 1401",Barra da Tijuca,Rio de Janeiro,(21) 95207-6170,852.582.492-52,flima56@gmail.com
+261,Juliana,Carvalho,"Avenida Central, 1471",Centro,Londrina,(43) 92282-3176,940.538.543-40,jcarvalho46@yahoo.com.br
+262,Mariana,Azevedo,"Rua dos Lirios, 872",Barra da Tijuca,Rio de Janeiro,(21) 99387-7549,671.193.691-35,mazevedo27@outlook.com
+263,Juliana,Almeida,"Avenida Brasil, 289",Savassi,Belo Horizonte,(31) 98512-6473,602.504.989-75,jalmeida54@gmail.com
+264,Rafael,Costa,"Rua das Flores, 1286",Savassi,Belo Horizonte,(31) 97257-7543,159.672.239-25,rcosta84@outlook.com
+265,Vanessa,Pereira,"Avenida das Americas, 1008",Bonsucesso,Rio de Janeiro,(21) 99890-6131,403.917.570-56,vpereira83@gmail.com
+266,Thiago,Miranda,"Rua das Acacias, 1027",Icarai,Niteroi,(21) 99066-2213,558.445.273-28,tmiranda84@hotmail.com
+267,Rafael,Miranda,"Rua Primavera, 398",Icarai,Niteroi,(21) 95152-5380,896.280.541-86,rmiranda19@gmail.com
+268,Eduardo,Rodrigues,"Avenida das Americas, 948",Campina,Belem,(91) 96208-4540,135.315.228-21,erodrigues18@gmail.com
+269,Amanda,Lima,"Avenida Brasil, 915",Meireles,Fortaleza,(85) 93845-3435,848.370.192-90,alima70@hotmail.com
+270,Amanda,Rodrigues,"Rua do Comercio, 739",Icarai,Niteroi,(21) 98293-5279,230.784.701-87,arodrigues60@hotmail.com
+271,Eduardo,Nascimento,"Rua do Comercio, 1500",Centro,Curitiba,(44) 92192-9760,435.194.967-26,enascimento56@outlook.com
+272,Carolina,Costa,"Avenida Brasil, 1203",Centro,Curitiba,(44) 93806-2128,213.363.683-85,ccosta1@gmail.com
+273,Rafael,Rocha,"Rua Primavera, 548",Savassi,Belo Horizonte,(31) 95348-1458,231.224.681-40,rrocha98@outlook.com
+274,Bianca,Lima,"Rua das Acacias, 783",Meireles,Fortaleza,(85) 97311-8042,507.942.190-50,blima27@gmail.com
+275,Maria,Costa,"Avenida Brasil, 1165",Boa Viagem,Recife,(81) 97424-5013,434.588.645-26,mcosta18@gmail.com
+276,Patricia,Almeida,"Avenida Brasil, 456",Barra da Tijuca,Rio de Janeiro,(21) 95339-8416,541.638.588-47,palmeida32@gmail.com
+277,Lucas,Rodrigues,"Rua Sao Jorge, 68",Savassi,Belo Horizonte,(31) 96773-4165,984.497.809-29,lrodrigues47@hotmail.com
+278,Joao,Moura,"Rua dos Lirios, 1471",Campina,Belem,(91) 96093-4759,199.126.402-53,jmoura70@gmail.com
+279,Patricia,Rodrigues,"Rua das Palmeiras, 384",Meireles,Fortaleza,(85) 93644-2085,922.267.109-70,prodrigues28@outlook.com
+280,Pedro,Moura,"Rua dos Lirios, 397",Barra da Tijuca,Rio de Janeiro,(21) 98795-6471,829.806.914-95,pmoura8@hotmail.com
+281,Ana,Moura,"Rua Sao Jorge, 350",Centro,Londrina,(43) 94848-4837,373.564.842-38,amoura49@yahoo.com.br
+282,Felipe,Azevedo,"Avenida Central, 400",Centro,Curitiba,(44) 95607-7972,122.602.109-83,fazevedo65@gmail.com
+283,Paulo,Moreira,"Rua do Comercio, 528",Centro,Londrina,(43) 96427-9118,456.306.881-79,pmoreira73@gmail.com
+284,Carlos,Almeida,"Rua das Flores, 1493",Barra da Tijuca,Rio de Janeiro,(21) 92563-9232,145.290.139-71,calmeida79@outlook.com
+285,Mariana,Lima,"Rua das Acacias, 284",Barra da Tijuca,Rio de Janeiro,(21) 97718-3238,559.186.239-71,mlima17@gmail.com
+286,Vanessa,Santos,"Avenida das Americas, 229",Savassi,Belo Horizonte,(31) 94588-3928,584.459.800-11,vsantos45@yahoo.com.br
+287,Renata,Nascimento,"Rua das Palmeiras, 1207",Jardins,Sao Paulo,(11) 92073-8030,469.313.536-25,rnascimento89@outlook.com
+288,Pedro,Moreira,"Rua do Comercio, 388",Icarai,Niteroi,(21) 92465-1250,543.285.394-11,pmoreira39@hotmail.com
+289,Carlos,Moura,"Rua das Palmeiras, 299",Meireles,Fortaleza,(85) 96630-8634,502.685.641-61,cmoura97@hotmail.com
+290,Rafael,Almeida,"Rua do Comercio, 149",Barra da Tijuca,Rio de Janeiro,(21) 91438-1143,147.424.960-50,ralmeida1@outlook.com
+291,Joao,Azevedo,"Rua das Acacias, 1346",Bonsucesso,Rio de Janeiro,(21) 93444-1069,813.294.336-53,jazevedo8@outlook.com
+292,Bianca,Pereira,"Avenida Brasil, 238",Icarai,Niteroi,(21) 95582-7062,352.151.165-62,bpereira2@yahoo.com.br
+293,Mariana,Santos,"Rua das Flores, 64",Centro,Curitiba,(44) 93206-3677,411.603.771-77,msantos89@outlook.com
+294,Bruno,Lima,"Rua Sao Jorge, 1412",Centro,Curitiba,(44) 97853-7481,476.160.117-29,blima74@yahoo.com.br
+295,Fernanda,Pereira,"Rua dos Lirios, 391",Bonsucesso,Rio de Janeiro,(21) 97423-4412,890.372.983-58,fpereira86@outlook.com
+296,Felipe,Miranda,"Rua das Flores, 147",Jardins,Sao Paulo,(11) 99078-6998,640.866.493-37,fmiranda50@gmail.com
+297,Carolina,Oliveira,"Avenida das Americas, 1198",Savassi,Belo Horizonte,(31) 91548-7604,937.524.760-19,coliveira33@gmail.com
+298,Bruno,Oliveira,"Rua das Acacias, 21",Centro,Londrina,(43) 97896-3909,746.117.973-14,boliveira33@hotmail.com
+299,Carlos,Rocha,"Avenida Brasil, 1317",Centro,Curitiba,(44) 92217-7474,851.500.328-58,crocha96@gmail.com
+300,Patricia,Ribeiro,"Avenida das Americas, 652",Boa Viagem,Recife,(81) 95337-3774,657.848.494-57,pribeiro14@outlook.com
+301,Joao,Miranda,"Rua das Palmeiras, 113",Barra da Tijuca,Rio de Janeiro,(21) 92657-6908,288.792.312-12,jmiranda26@yahoo.com.br
+302,Paulo,Lima,"Avenida das Americas, 13",Savassi,Belo Horizonte,(31) 92228-9470,975.963.832-60,plima91@yahoo.com.br
+303,Bianca,Nascimento,"Avenida Brasil, 1358",Campina,Belem,(91) 99367-9068,819.327.406-73,bnascimento52@yahoo.com.br
+304,Pedro,Carvalho,"Avenida das Americas, 704",Savassi,Belo Horizonte,(31) 93638-5257,995.947.478-92,pcarvalho21@hotmail.com
+305,Fernanda,Ribeiro,"Rua das Flores, 613",Icarai,Niteroi,(21) 99589-8673,591.621.367-43,fribeiro65@hotmail.com
+306,Felipe,Moreira,"Rua Sao Jorge, 865",Barra da Tijuca,Rio de Janeiro,(21) 92248-3342,871.579.736-44,fmoreira2@outlook.com
+307,Eduardo,Lima,"Rua Primavera, 1178",Jardins,Sao Paulo,(11) 94895-7362,407.657.324-35,elima56@hotmail.com
+308,Maria,Miranda,"Rua das Flores, 618",Campina,Belem,(91) 95401-2604,229.799.382-65,mmiranda27@yahoo.com.br
+309,Rafael,Silva,"Rua Sao Jorge, 1324",Boa Viagem,Recife,(81) 93598-1269,369.789.813-54,rsilva74@hotmail.com
+310,Ana,Teixeira,"Avenida das Americas, 763",Boa Viagem,Recife,(81) 98987-9638,766.545.437-75,ateixeira79@outlook.com
+311,Vanessa,Pereira,"Rua Sao Jorge, 113",Jardins,Sao Paulo,(11) 98727-4972,263.669.804-82,vpereira36@gmail.com
+312,Lucas,Souza,"Avenida Central, 463",Savassi,Belo Horizonte,(31) 94422-8217,907.103.273-21,lsouza63@yahoo.com.br
+313,Bruno,Ribeiro,"Avenida Central, 929",Meireles,Fortaleza,(85) 92399-6835,278.265.480-23,bribeiro37@outlook.com
+314,Fernanda,Teixeira,"Rua das Acacias, 370",Campina,Belem,(91) 92534-2995,836.279.145-72,fteixeira54@outlook.com
+315,Felipe,Azevedo,"Avenida Brasil, 850",Boa Viagem,Recife,(81) 99763-9291,557.967.572-62,fazevedo67@gmail.com
+316,Rafael,Miranda,"Rua das Acacias, 901",Barra da Tijuca,Rio de Janeiro,(21) 91975-7353,151.260.764-55,rmiranda78@hotmail.com
+317,Carlos,Almeida,"Rua Primavera, 354",Jardins,Sao Paulo,(11) 92103-3543,505.790.578-96,calmeida90@outlook.com
+318,Carlos,Moura,"Rua do Comercio, 818",Savassi,Belo Horizonte,(31) 95621-4925,422.606.506-64,cmoura2@yahoo.com.br
+319,Camila,Moura,"Rua das Flores, 689",Savassi,Belo Horizonte,(31) 96281-6118,880.836.462-10,cmoura8@yahoo.com.br
+320,Camila,Souza,"Rua dos Lirios, 1162",Centro,Londrina,(43) 95210-9372,423.747.986-31,csouza54@gmail.com
+321,Felipe,Moreira,"Rua do Comercio, 1399",Boa Viagem,Recife,(81) 94945-8637,345.410.976-50,fmoreira50@outlook.com
+322,Maria,Costa,"Rua das Flores, 944",Boa Viagem,Recife,(81) 99486-9380,448.375.688-16,mcosta88@yahoo.com.br
+323,Thiago,Santos,"Rua das Acacias, 1009",Bonsucesso,Rio de Janeiro,(21) 93213-8182,244.993.398-60,tsantos51@hotmail.com
+324,Renata,Carvalho,"Avenida Central, 249",Meireles,Fortaleza,(85) 98815-5346,271.925.526-34,rcarvalho61@outlook.com
+325,Camila,Rocha,"Avenida Brasil, 905",Icarai,Niteroi,(21) 97535-4693,672.835.313-78,crocha75@yahoo.com.br
+326,Camila,Carvalho,"Rua das Palmeiras, 947",Campina,Belem,(91) 96403-7698,943.619.835-75,ccarvalho70@gmail.com
+327,Patricia,Carvalho,"Rua das Palmeiras, 1366",Bonsucesso,Rio de Janeiro,(21) 98271-7594,703.945.819-58,pcarvalho79@hotmail.com
+328,Lucas,Almeida,"Rua das Acacias, 288",Savassi,Belo Horizonte,(31) 98763-1430,647.369.281-13,lalmeida95@gmail.com
+329,Thiago,Souza,"Rua das Flores, 1286",Barra da Tijuca,Rio de Janeiro,(21) 92595-9037,739.769.640-31,tsouza19@gmail.com
+330,Carolina,Azevedo,"Rua das Palmeiras, 684",Centro,Londrina,(43) 98914-8146,265.960.325-59,cazevedo59@hotmail.com
+331,Larissa,Nascimento,"Avenida Central, 601",Campina,Belem,(91) 98750-4769,524.441.617-23,lnascimento46@yahoo.com.br
+332,Bianca,Rocha,"Avenida Central, 897",Campina,Belem,(91) 93301-3767,122.682.668-49,brocha17@yahoo.com.br
+333,Carlos,Teixeira,"Rua Primavera, 273",Bonsucesso,Rio de Janeiro,(21) 95699-5736,919.203.757-73,cteixeira14@gmail.com
+334,Ana,Rodrigues,"Avenida Central, 850",Barra da Tijuca,Rio de Janeiro,(21) 98505-7928,876.590.447-42,arodrigues95@outlook.com
+335,Mariana,Moura,"Rua das Palmeiras, 635",Barra da Tijuca,Rio de Janeiro,(21) 94621-2407,912.241.575-96,mmoura89@yahoo.com.br
+336,Lucas,Costa,"Avenida Brasil, 90",Campina,Belem,(91) 99946-6081,977.567.614-85,lcosta65@gmail.com
+337,Bianca,Santos,"Rua das Palmeiras, 680",Savassi,Belo Horizonte,(31) 97536-1867,223.729.517-94,bsantos62@outlook.com
+338,Larissa,Carvalho,"Rua do Comercio, 550",Barra da Tijuca,Rio de Janeiro,(21) 96083-9460,687.834.763-51,lcarvalho23@hotmail.com
+339,Pedro,Oliveira,"Avenida Brasil, 233",Centro,Londrina,(43) 97157-3041,854.398.799-94,poliveira18@yahoo.com.br
+340,Carolina,Nascimento,"Rua das Palmeiras, 233",Boa Viagem,Recife,(81) 99492-9391,908.619.838-99,cnascimento46@gmail.com
+341,Amanda,Costa,"Rua das Flores, 377",Boa Viagem,Recife,(81) 95634-6726,756.355.768-14,acosta82@hotmail.com
+342,Bianca,Almeida,"Rua das Flores, 631",Bonsucesso,Rio de Janeiro,(21) 94185-9941,317.322.738-26,balmeida99@gmail.com
+343,Felipe,Moreira,"Avenida Brasil, 995",Centro,Londrina,(43) 92417-7083,663.278.467-91,fmoreira99@outlook.com
+344,Eduardo,Carvalho,"Rua das Palmeiras, 556",Meireles,Fortaleza,(85) 92150-2112,534.607.123-12,ecarvalho37@yahoo.com.br
+345,Vanessa,Santos,"Rua Sao Jorge, 1031",Icarai,Niteroi,(21) 92508-7275,485.722.904-55,vsantos5@yahoo.com.br
+346,Rafael,Moura,"Rua do Comercio, 1353",Icarai,Niteroi,(21) 96412-8472,170.769.807-43,rmoura91@outlook.com
+347,Pedro,Almeida,"Rua do Comercio, 80",Boa Viagem,Recife,(81) 93243-8698,167.470.261-16,palmeida32@outlook.com
+348,Eduardo,Azevedo,"Rua Primavera, 250",Campina,Belem,(91) 99512-6449,105.818.294-51,eazevedo10@yahoo.com.br
+349,Patricia,Rocha,"Rua Sao Jorge, 91",Boa Viagem,Recife,(81) 98970-1128,839.381.631-74,procha85@yahoo.com.br
+350,Lucas,Silva,"Avenida Central, 725",Boa Viagem,Recife,(81) 99036-6890,258.623.795-34,lsilva32@outlook.com
+351,Gustavo,Almeida,"Rua Sao Jorge, 319",Campina,Belem,(91) 96081-3282,998.744.311-92,galmeida66@gmail.com
+352,Juliana,Santos,"Rua Primavera, 531",Centro,Londrina,(43) 93628-2417,863.444.440-42,jsantos18@gmail.com
+353,Renata,Souza,"Avenida das Americas, 744",Icarai,Niteroi,(21) 97046-9201,676.340.306-14,rsouza12@outlook.com
+354,Renata,Pereira,"Rua das Flores, 49",Bonsucesso,Rio de Janeiro,(21) 97995-3573,921.552.716-59,rpereira90@yahoo.com.br
+355,Mariana,Moura,"Rua das Palmeiras, 1472",Meireles,Fortaleza,(85) 96295-7216,892.422.334-78,mmoura95@outlook.com
+356,Camila,Moura,"Rua das Flores, 315",Jardins,Sao Paulo,(11) 98405-1351,386.312.532-84,cmoura64@gmail.com
+357,Fernanda,Rodrigues,"Avenida das Americas, 758",Campina,Belem,(91) 93675-9157,327.482.825-92,frodrigues1@yahoo.com.br
+358,Thiago,Nascimento,"Rua Primavera, 881",Meireles,Fortaleza,(85) 91827-9026,355.500.559-82,tnascimento24@yahoo.com.br
+359,Fernanda,Rodrigues,"Avenida Central, 1237",Savassi,Belo Horizonte,(31) 99739-1877,579.709.472-25,frodrigues24@gmail.com
+360,Fernanda,Nascimento,"Avenida das Americas, 907",Icarai,Niteroi,(21) 96825-3466,712.445.344-90,fnascimento76@yahoo.com.br
+361,Fernanda,Souza,"Rua das Flores, 1425",Bonsucesso,Rio de Janeiro,(21) 98008-4107,982.307.858-87,fsouza65@yahoo.com.br
+362,Eduardo,Teixeira,"Rua do Comercio, 1158",Icarai,Niteroi,(21) 91730-8502,301.130.729-31,eteixeira60@yahoo.com.br
+363,Felipe,Silva,"Rua das Flores, 672",Savassi,Belo Horizonte,(31) 97998-4089,612.382.946-50,fsilva38@gmail.com
+364,Patricia,Rocha,"Rua das Acacias, 259",Centro,Curitiba,(44) 99895-7165,918.745.749-61,procha77@hotmail.com
+365,Bianca,Moura,"Avenida Brasil, 15",Campina,Belem,(91) 95897-1383,776.834.763-17,bmoura39@gmail.com
+366,Maria,Rocha,"Avenida das Americas, 1325",Centro,Curitiba,(44) 92227-9826,854.102.786-95,mrocha5@hotmail.com
+367,Eduardo,Souza,"Avenida Central, 1194",Campina,Belem,(91) 98127-6212,475.192.460-67,esouza71@outlook.com
+368,Patricia,Lima,"Rua do Comercio, 174",Savassi,Belo Horizonte,(31) 99979-2301,214.742.239-41,plima12@hotmail.com
+369,Amanda,Carvalho,"Rua Primavera, 242",Bonsucesso,Rio de Janeiro,(21) 99765-4827,620.315.161-95,acarvalho89@outlook.com
+370,Mariana,Souza,"Rua dos Lirios, 154",Barra da Tijuca,Rio de Janeiro,(21) 91392-5008,232.359.492-91,msouza93@outlook.com
+371,Camila,Lima,"Rua das Flores, 1238",Savassi,Belo Horizonte,(31) 96673-5594,360.825.388-47,clima12@outlook.com
+372,Larissa,Nascimento,"Rua do Comercio, 204",Savassi,Belo Horizonte,(31) 93931-5063,945.544.995-69,lnascimento87@gmail.com
+373,Mariana,Carvalho,"Rua Primavera, 516",Icarai,Niteroi,(21) 94667-3847,592.471.152-47,mcarvalho86@outlook.com
+374,Ana,Silva,"Rua das Flores, 1150",Campina,Belem,(91) 98810-4651,558.178.683-65,asilva79@yahoo.com.br
+375,Joao,Oliveira,"Rua dos Lirios, 1245",Barra da Tijuca,Rio de Janeiro,(21) 91520-2564,733.427.755-67,joliveira42@gmail.com
+376,Paulo,Carvalho,"Rua das Acacias, 764",Savassi,Belo Horizonte,(31) 92911-4374,919.473.448-49,pcarvalho9@yahoo.com.br
+377,Larissa,Teixeira,"Rua Primavera, 392",Centro,Curitiba,(44) 92036-4040,241.815.581-60,lteixeira51@outlook.com
+378,Gustavo,Almeida,"Rua do Comercio, 778",Barra da Tijuca,Rio de Janeiro,(21) 99949-1039,404.232.415-51,galmeida81@gmail.com
+379,Pedro,Almeida,"Rua Sao Jorge, 370",Campina,Belem,(91) 97330-9212,355.551.697-53,palmeida81@outlook.com
+380,Rafael,Santos,"Avenida Brasil, 907",Barra da Tijuca,Rio de Janeiro,(21) 99300-7516,383.526.389-64,rsantos86@gmail.com
+381,Vanessa,Silva,"Avenida Central, 1250",Savassi,Belo Horizonte,(31) 94307-6330,695.232.760-43,vsilva37@outlook.com
+382,Patricia,Nascimento,"Rua Primavera, 910",Centro,Londrina,(43) 91803-3778,865.586.915-23,pnascimento36@outlook.com
+383,Vanessa,Carvalho,"Rua do Comercio, 663",Centro,Londrina,(43) 99844-3838,497.823.810-17,vcarvalho2@hotmail.com
+384,Rafael,Pereira,"Rua Primavera, 452",Centro,Londrina,(43) 98681-8389,594.158.978-32,rpereira58@yahoo.com.br
+385,Lucas,Lima,"Rua Primavera, 1233",Centro,Londrina,(43) 93473-8820,828.860.158-27,llima32@outlook.com
+386,Eduardo,Costa,"Avenida Brasil, 1446",Icarai,Niteroi,(21) 98543-6048,120.116.114-23,ecosta90@gmail.com
+387,Eduardo,Azevedo,"Rua Primavera, 701",Meireles,Fortaleza,(85) 92818-3652,173.800.749-91,eazevedo48@yahoo.com.br
+388,Camila,Moura,"Rua das Flores, 1235",Campina,Belem,(91) 93863-2250,776.819.545-70,cmoura10@gmail.com
+389,Paulo,Nascimento,"Rua das Palmeiras, 1095",Campina,Belem,(91) 98024-7723,596.225.542-32,pnascimento68@hotmail.com
+390,Vanessa,Azevedo,"Avenida das Americas, 357",Icarai,Niteroi,(21) 98384-5266,345.610.555-43,vazevedo38@gmail.com
+391,Mariana,Ribeiro,"Rua das Acacias, 244",Campina,Belem,(91) 91011-6241,685.958.719-70,mribeiro82@outlook.com
+392,Larissa,Oliveira,"Rua dos Lirios, 993",Jardins,Sao Paulo,(11) 95158-9374,568.312.230-62,loliveira95@outlook.com
+393,Camila,Moura,"Avenida Central, 1240",Bonsucesso,Rio de Janeiro,(21) 96132-3699,810.837.962-82,cmoura18@gmail.com
+394,Paulo,Miranda,"Avenida Brasil, 391",Meireles,Fortaleza,(85) 98397-8175,750.883.597-26,pmiranda31@outlook.com
+395,Vanessa,Moura,"Avenida Central, 43",Campina,Belem,(91) 95069-8556,842.460.674-38,vmoura39@gmail.com
+396,Lucas,Souza,"Rua Primavera, 127",Campina,Belem,(91) 93820-2971,511.726.418-98,lsouza38@outlook.com
+397,Eduardo,Almeida,"Avenida das Americas, 736",Icarai,Niteroi,(21) 92516-6836,185.289.268-75,ealmeida34@gmail.com
+398,Pedro,Rocha,"Rua Sao Jorge, 373",Savassi,Belo Horizonte,(31) 97284-1018,443.564.419-93,procha67@outlook.com
+399,Amanda,Pereira,"Rua das Acacias, 1426",Centro,Londrina,(43) 98376-6534,102.364.313-90,apereira49@hotmail.com
+400,Pedro,Miranda,"Rua das Palmeiras, 925",Centro,Londrina,(43) 96297-7889,843.230.754-29,pmiranda4@outlook.com
+401,Patricia,Teixeira,"Rua das Palmeiras, 617",Boa Viagem,Recife,(81) 91346-4866,154.497.291-14,pteixeira20@yahoo.com.br
+402,Camila,Santos,"Avenida das Americas, 1288",Centro,Curitiba,(44) 97167-3772,622.311.448-27,csantos7@hotmail.com
+403,Thiago,Rodrigues,"Rua dos Lirios, 56",Boa Viagem,Recife,(81) 99106-9507,383.273.537-55,trodrigues26@yahoo.com.br
+404,Carlos,Teixeira,"Rua do Comercio, 491",Centro,Londrina,(43) 91995-3429,344.543.185-69,cteixeira62@gmail.com
+405,Maria,Moreira,"Rua das Acacias, 1095",Barra da Tijuca,Rio de Janeiro,(21) 93310-9940,488.818.545-14,mmoreira64@gmail.com
+406,Larissa,Almeida,"Rua das Flores, 1255",Centro,Londrina,(43) 95949-6456,380.895.500-26,lalmeida38@yahoo.com.br
+407,Paulo,Lima,"Rua do Comercio, 1128",Jardins,Sao Paulo,(11) 97573-7232,805.954.756-24,plima97@yahoo.com.br
+408,Amanda,Teixeira,"Rua das Flores, 895",Campina,Belem,(91) 97374-8768,610.600.112-64,ateixeira66@outlook.com
+409,Paulo,Rodrigues,"Rua das Flores, 275",Centro,Londrina,(43) 99810-3666,786.739.608-24,prodrigues57@outlook.com
+410,Rafael,Miranda,"Rua das Palmeiras, 1451",Centro,Curitiba,(44) 95116-4538,617.257.686-46,rmiranda49@yahoo.com.br
+411,Pedro,Pereira,"Avenida das Americas, 657",Bonsucesso,Rio de Janeiro,(21) 97045-5657,507.815.305-16,ppereira17@outlook.com
+412,Juliana,Carvalho,"Rua dos Lirios, 139",Savassi,Belo Horizonte,(31) 99847-2789,489.338.902-76,jcarvalho8@yahoo.com.br
+413,Renata,Teixeira,"Rua Sao Jorge, 171",Centro,Curitiba,(44) 95332-3265,536.975.233-33,rteixeira13@hotmail.com
+414,Mariana,Lima,"Rua das Acacias, 855",Savassi,Belo Horizonte,(31) 91966-8520,253.142.603-60,mlima48@outlook.com
+415,Pedro,Carvalho,"Avenida Central, 775",Bonsucesso,Rio de Janeiro,(21) 92994-3518,440.809.318-48,pcarvalho45@hotmail.com
+416,Amanda,Teixeira,"Rua Sao Jorge, 210",Jardins,Sao Paulo,(11) 98078-3347,815.357.779-40,ateixeira12@outlook.com
+417,Joao,Azevedo,"Rua dos Lirios, 1141",Centro,Curitiba,(44) 95076-2370,548.389.602-42,jazevedo37@hotmail.com
+418,Bianca,Nascimento,"Avenida das Americas, 826",Campina,Belem,(91) 96690-6633,656.787.977-12,bnascimento55@gmail.com
+419,Renata,Souza,"Rua das Flores, 997",Jardins,Sao Paulo,(11) 96029-5016,508.437.126-35,rsouza39@gmail.com
+420,Paulo,Rocha,"Rua dos Lirios, 909",Icarai,Niteroi,(21) 99540-5134,214.145.451-53,procha28@outlook.com
+421,Eduardo,Silva,"Rua das Flores, 948",Campina,Belem,(91) 94178-5174,122.557.550-84,esilva25@gmail.com
+422,Amanda,Rocha,"Rua das Palmeiras, 48",Barra da Tijuca,Rio de Janeiro,(21) 92094-1174,126.823.660-81,arocha46@hotmail.com
+423,Mariana,Nascimento,"Rua das Acacias, 1181",Jardins,Sao Paulo,(11) 91356-4596,544.130.466-16,mnascimento76@hotmail.com
+424,Amanda,Costa,"Rua do Comercio, 392",Icarai,Niteroi,(21) 97517-5806,978.191.840-60,acosta27@gmail.com

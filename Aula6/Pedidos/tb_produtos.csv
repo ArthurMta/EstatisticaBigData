@@ -1,0 +1,61 @@
+codigo_produto,produto,categoria,preco
+1,Notebook 15 Polegadas,Eletronicos,3499.90
+2,Notebook Gamer,Eletronicos,5899.90
+3,Smartphone 128GB,Eletronicos,1799.90
+4,Smartphone Premium 256GB,Eletronicos,3499.90
+5,Smart TV 43 Polegadas,Eletronicos,1899.90
+6,Smart TV 55 Polegadas,Eletronicos,2899.90
+7,Tablet 10 Polegadas,Eletronicos,1299.90
+8,Monitor 24 Polegadas,Eletronicos,899.90
+9,Monitor Gamer 27 Polegadas,Eletronicos,1599.90
+10,Caixa de Som Bluetooth,Eletronicos,249.90
+11,Fone de Ouvido Bluetooth,Eletronicos,199.90
+12,Home Theater,Eletronicos,1499.90
+13,Video Game Console,Games,4499.90
+14,Controle Sem Fio,Games,299.90
+15,Headset Gamer,Games,349.90
+16,Teclado Gamer,Informatica,279.90
+17,Mouse Gamer,Informatica,189.90
+18,Impressora Multifuncional,Informatica,899.90
+19,Roteador WiFi,Informatica,249.90
+20,HD Externo 1TB,Informatica,399.90
+21,SSD 1TB,Informatica,549.90
+22,Webcam Full HD,Informatica,199.90
+23,Microondas 30L,Eletrodomesticos,699.90
+24,Geladeira Frost Free,Eletrodomesticos,3499.90
+25,Fogao 5 Bocas,Eletrodomesticos,1499.90
+26,Liquidificador 1200W,Eletrodomesticos,149.90
+27,Cafeteira Eletrica,Eletrodomesticos,229.90
+28,Batedeira Planetaria,Eletrodomesticos,499.90
+29,Air Fryer 5L,Eletrodomesticos,399.90
+30,Lava e Seca 11Kg,Eletrodomesticos,4299.90
+31,Aspirador de Po,Eletrodomesticos,349.90
+32,Forno Eletrico,Eletrodomesticos,599.90
+33,Grill Eletrico,Eletrodomesticos,179.90
+34,Climatizador de Ar,Eletrodomesticos,499.90
+35,Sofa 3 Lugares,Moveis,2199.90
+36,Sofa Retratil,Moveis,3199.90
+37,Cadeira de Escritorio,Moveis,599.90
+38,Mesa de Jantar 6 Lugares,Moveis,1799.90
+39,Guarda Roupa 6 Portas,Moveis,2599.90
+40,Cama Box Casal,Moveis,1499.90
+41,Cama Box Queen,Moveis,2199.90
+42,Painel para TV,Moveis,699.90
+43,Rack para Sala,Moveis,799.90
+44,Estante para Livros,Moveis,549.90
+45,Escrivaninha,Moveis,649.90
+46,Poltrona Decorativa,Moveis,899.90
+47,Armario de Cozinha,Moveis,1399.90
+48,Bicicleta Aro 29,Esportes,1799.90
+49,Esteira Eletrica,Esportes,3299.90
+50,Relogio Smartwatch,Eletronicos,799.90
+51,Celular Intermediario 256GB,Telefonia,2299.90
+52,Celular Basico 64GB,Telefonia,999.90
+53,Power Bank 20000mAh,Telefonia,149.90
+54,Carregador Sem Fio,Telefonia,129.90
+55,Camera de Seguranca WiFi,Casa,329.90
+56,Fechadura Digital,Casa,699.90
+57,Lampada Inteligente,Casa,89.90
+58,Kit Casa Inteligente,Casa,599.90
+59,Bebedouro Eletrico,Eletrodomesticos,799.90
+60,Cervejeira 96L,Eletrodomesticos,2899.90
