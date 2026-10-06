@@ -39,6 +39,19 @@ try:
         df_livros, df_itens, on='id_livro'
     )
     
-    print(df_merge1)
+    df_merge2 = pd.merge(
+        df_merge1, df_alugados, on='id_aluguel'
+    )
+    
+    # df_merge3 = pd.merge(
+    #     df_merge2, df_usuarios, on='id_usuario'
+    # )
+    
+    df_dados = pd.merge(
+        df_merge2, df_usuarios, left_on='id_usuario', right_on='id_usuario'
+    )
+    
+    print(df_dados)
+    
 except Exception as e:
     print(f"Erro : {e}") 
