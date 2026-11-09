@@ -37,7 +37,7 @@ try:
     # tempo para ler = 16.39seg
     
     
-    lista_meses_arquivos = ['202601_NovoBolsaFamilia.csv', '202602_NovoBolsaFamilia.csv', '202603_NovoBolsaFamilia.csv']
+    lista_meses_arquivos = ['202601_NovoBolsaFamilia.csv', '202602_NovoBolsaFamilia.csv', '202603_NovoBolsaFamilia.csv', '202604_NovoBolsaFamilia.csv', '202605_NovoBolsaFamilia.csv']
     
     
     # df principal
