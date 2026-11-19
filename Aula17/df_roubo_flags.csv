@@ -1,0 +1,75 @@
+﻿cisp;regiao;munic;roubo_veiculo;recuperacao_veiculos;flag
+17;Capital;Rio de Janeiro;7771;7356;mais
+18;Capital;Rio de Janeiro;7393;1815;mais
+20;Capital;Rio de Janeiro;9201;4717;mais
+21;Capital;Rio de Janeiro;19884;25492;mais
+22;Capital;Rio de Janeiro;15236;11560;mais
+23;Capital;Rio de Janeiro;10833;6737;mais
+24;Capital;Rio de Janeiro;12311;7090;mais
+25;Capital;Rio de Janeiro;11140;13185;mais
+26;Capital;Rio de Janeiro;7920;4270;mais
+27;Capital;Rio de Janeiro;28171;13401;mais
+28;Capital;Rio de Janeiro;11120;4837;mais
+29;Capital;Rio de Janeiro;17260;9104;mais
+30;Capital;Rio de Janeiro;12987;6319;mais
+31;Capital;Rio de Janeiro;15283;8393;mais
+32;Capital;Rio de Janeiro;8854;8197;mais
+33;Capital;Rio de Janeiro;18285;9822;mais
+34;Capital;Rio de Janeiro;27785;20608;mais
+35;Capital;Rio de Janeiro;19640;12847;mais
+38;Capital;Rio de Janeiro;20218;14833;mais
+39;Capital;Rio de Janeiro;30059;30243;mais
+40;Capital;Rio de Janeiro;19618;12089;mais
+44;Capital;Rio de Janeiro;15041;8738;mais
+52;Baixada Fluminense;Nova Iguaçu;15794;7630;mais
+53;Baixada Fluminense;Mesquita;8612;5317;mais
+54;Baixada Fluminense;Belford Roxo;25242;16192;mais
+56;Baixada Fluminense;Nova Iguaçu;12188;5660;mais
+57;Baixada Fluminense;Nilópolis;12547;5554;mais
+58;Baixada Fluminense;Nova Iguaçu;16540;5384;mais
+59;Baixada Fluminense;Duque de Caxias;38084;32052;mais
+60;Baixada Fluminense;Duque de Caxias;20900;7947;mais
+62;Baixada Fluminense;Duque de Caxias;9387;5953;mais
+64;Baixada Fluminense;São João de Meriti;33121;21156;mais
+72;Grande Niterói;São Gonçalo;14275;16236;mais
+73;Grande Niterói;São Gonçalo;14037;8199;mais
+74;Grande Niterói;São Gonçalo;18491;9753;mais
+75;Grande Niterói;São Gonçalo;10205;7857;mais
+78;Grande Niterói;Niterói;8587;5491;mais
+11;Capital;Rio de Janeiro;18;54;menos
+45;Capital;Rio de Janeiro;27;18;menos
+91;Interior;Valença;49;243;menos
+92;Interior;Rio das Flores;8;30;menos
+94;Interior;"Piraí;Pinheiral";53;24;menos
+96;Interior;"Miguel Pereira;Paty dos Alferes";43;316;menos
+97;Interior;Mendes;23;92;menos
+98;Interior;Engenheiro Paulo de Frontin;18;69;menos
+100;Interior;"Porto Real;Quatis";87;286;menos
+101;Interior;Pinheiral;47;124;menos
+104;Interior;São José do Vale do Rio Preto;20;132;menos
+107;Interior;Paraíba do Sul;67;208;menos
+111;Interior;Sumidouro;39;98;menos
+112;Interior;Carmo;49;98;menos
+132;Interior;Arraial do Cabo;60;199;menos
+135;Interior;Itaocara;24;207;menos
+136;Interior;"Santo Antônio de Pádua;Aperibé";66;368;menos
+137;Interior;Miracema;6;90;menos
+138;Interior;Laje do Muriaé;2;35;menos
+139;Interior;Porciúncula;7;83;menos
+140;Interior;"Natividade;Varre-Sai";8;101;menos
+141;Interior;São Fidélis;81;221;menos
+142;Interior;Cambuci;9;85;menos
+143;Interior;"Itaperuna;São José de Ubá";66;539;menos
+143;Interior;"Itaperuna;São José de Ubá;Cardoso Moreira;Italva";25;144;menos
+144;Interior;Bom Jesus de Itabapoana;20;156;menos
+146;Interior;"Campos dos Goytacazes;São Francisco de Itabapoana";31;55;menos
+148;Interior;"Cardoso Moreira;Italva";27;113;menos
+152;Interior;Duas Barras;13;59;menos
+153;Interior;Cantagalo;58;127;menos
+154;Interior;"Cordeiro;Macuco";21;160;menos
+155;Interior;São Sebastião do Alto;30;37;menos
+156;Interior;Santa Maria Madalena;47;74;menos
+157;Interior;Trajano de Morais;21;66;menos
+158;Interior;Bom Jardim;21;172;menos
+167;Capital;Paraty;2;5;menos
+168;Interior;Rio Claro;66;168;menos
